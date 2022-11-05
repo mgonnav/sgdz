@@ -1,9 +1,59 @@
 from rest_framework.permissions import IsAdminUser
 from rest_framework.viewsets import ModelViewSet
 
-from sgz.management.models import PointOfSale, Provider
+from sgz.management.models import (
+    PaymentType,
+    PointOfSale,
+    Product,
+    Provider,
+    ShoeModel,
+    Storeroom,
+)
 
-from .serializers import PointOfSaleSerializer, ProviderSerializer
+from .serializers import (
+    PaymentTypeSerializer,
+    PointOfSaleSerializer,
+    ProductSerializer,
+    ProviderSerializer,
+    ShoeModelSerializer,
+    StoreroomSerializer,
+)
+
+
+class PaymentTypeViewSet(ModelViewSet):
+    """
+    CRUD for points of sale
+    Related use case: CU-09
+    """
+
+    serializer_class = PaymentTypeSerializer
+    queryset = PaymentType.objects.all()
+    permission_classes = [IsAdminUser]
+    lookup_field = "name"
+
+
+class PointOfSaleViewSet(ModelViewSet):
+    """
+    CRUD for points of sale
+    Related use case: CU-07
+    """
+
+    serializer_class = PointOfSaleSerializer
+    queryset = PointOfSale.objects.all()
+    permission_classes = [IsAdminUser]
+    lookup_field = "name"
+
+
+class ProductViewSet(ModelViewSet):
+    """
+    CRUD for points of sale
+    Related use case: CU-12
+    """
+
+    serializer_class = ProductSerializer
+    queryset = Product.objects.all()
+    permission_classes = [IsAdminUser]
+    lookup_field = "pk"
 
 
 class ProviderViewSet(ModelViewSet):
@@ -18,13 +68,25 @@ class ProviderViewSet(ModelViewSet):
     lookup_field = "contact_name"
 
 
-class PointOfSaleViewSet(ModelViewSet):
+class ShoeModelViewSet(ModelViewSet):
     """
     CRUD for points of sale
-    Related use case: CU-07
+    Related use case: CU-11
     """
 
-    serializer_class = PointOfSaleSerializer
-    queryset = PointOfSale.objects.all()
+    serializer_class = ShoeModelSerializer
+    queryset = ShoeModel.objects.all()
+    permission_classes = [IsAdminUser]
+    lookup_field = "code"
+
+
+class StoreroomViewSet(ModelViewSet):
+    """
+    CRUD for points of sale
+    Related use case: CU-08
+    """
+
+    serializer_class = StoreroomSerializer
+    queryset = Storeroom.objects.all()
     permission_classes = [IsAdminUser]
     lookup_field = "name"
