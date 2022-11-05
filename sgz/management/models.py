@@ -30,6 +30,22 @@ class PointOfSale(models.Model):
         return self.name
 
 
+class ShoeModel(models.Model):
+    """
+    Physical model code: MF-11
+    """
+
+    code = models.CharField(
+        max_length=20, unique=True, help_text="Code of the shoe model."
+    )
+    name = models.CharField(max_length=50, help_text="Name of the shoe model.")
+    brand = models.CharField(max_length=30, help_text="Brand of the shoe model.")
+    color = models.CharField(max_length=20, help_text="Colour of the shoe model.")
+
+    def __str__(self):
+        return f"{self.code} | {self.name}"
+
+
 class Product(models.Model):
     """
     Physical model code: MF-07
@@ -47,6 +63,7 @@ class Product(models.Model):
         validators=[MinValueValidator(0.0, "The price cannot be negative.")],
         help_text="Suggested sale price for the product.",
     )
+    shoe_model = models.ForeignKey(ShoeModel, on_delete=models.CASCADE)
 
 
 class Provider(models.Model):
@@ -76,28 +93,6 @@ class Provider(models.Model):
         return f"{self.company_name} ({self.contact_name})"
 
 
-class ShoeModel(models.Model):
-    """
-    Physical model code: MF-11
-    """
-
-    code = models.CharField(
-        max_length=20, unique=True, help_text="Code of the shoe model."
-    )
-    name = models.CharField(
-        max_length=50, unique=True, help_text="Name of the shoe model."
-    )
-    brand = models.CharField(
-        max_length=30, unique=True, help_text="Brand of the shoe model."
-    )
-    color = models.CharField(
-        max_length=20, unique=True, help_text="Colour of the shoe model."
-    )
-
-    def __str__(self):
-        return f"{self.code} | {self.name}"
-
-
 class Storeroom(models.Model):
     """
     Physical model code: MF-09
@@ -106,6 +101,22 @@ class Storeroom(models.Model):
     name = models.CharField(
         max_length=50, unique=True, help_text="Name of the storeroom."
     )
+    allocations = models.ManyToManyField(
+        Product,
+        related_name="allocations",
+        through="Allocation",
+        help_text="Products allocated in a specific storeroom.",
+    )
 
     def __str__(self):
         return self.name
+
+
+class Allocation(models.Model):
+    """
+    Physical model code: MF-08
+    """
+
+    product = models.ForeignKey(Product, on_delete=models.CASCADE)
+    storeroom = models.ForeignKey(Storeroom, on_delete=models.CASCADE)
+    stock = models.PositiveIntegerField()
