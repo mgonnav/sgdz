@@ -1,6 +1,7 @@
 from rest_framework import serializers
 
 from sgz.management.models import (
+    Allocation,
     PaymentType,
     PointOfSale,
     Product,
@@ -40,7 +41,15 @@ class ShoeModelSerializer(serializers.ModelSerializer):
         fields = "__all__"
 
 
+class StoreroomAllocationSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Allocation
+        fields = ("product", "stock")
+
+
 class StoreroomSerializer(serializers.ModelSerializer):
+    allocations = StoreroomAllocationSerializer(read_only=True, many=True)
+
     class Meta:
         model = Storeroom
-        fields = "__all__"
+        fields = ("name", "allocations")

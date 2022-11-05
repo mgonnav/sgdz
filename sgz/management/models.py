@@ -63,7 +63,9 @@ class Product(models.Model):
         validators=[MinValueValidator(0.0, "The price cannot be negative.")],
         help_text="Suggested sale price for the product.",
     )
-    shoe_model = models.ForeignKey(ShoeModel, on_delete=models.CASCADE)
+    shoe_model = models.ForeignKey(
+        ShoeModel, on_delete=models.CASCADE, help_text="Shoe model for this product."
+    )
 
 
 class Provider(models.Model):
