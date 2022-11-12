@@ -26,7 +26,6 @@ class AllocationViewSet(ModelViewSet):
     serializer_class = AllocationSerializer
     queryset = Allocation.objects.all()
     permission_classes = [IsAdminUser]
-    lookup_field = "name"
 
 
 class PaymentTypeViewSet(ModelViewSet):

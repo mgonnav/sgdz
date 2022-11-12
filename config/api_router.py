@@ -2,6 +2,7 @@ from django.conf import settings
 from rest_framework.routers import DefaultRouter, SimpleRouter
 
 from sgz.management.api.views import (
+    AllocationViewSet,
     PaymentTypeViewSet,
     PointOfSaleViewSet,
     ProductViewSet,
@@ -17,6 +18,7 @@ else:
     router = SimpleRouter()
 
 router.register("users", UserViewSet)
+router.register("allocations", AllocationViewSet)
 router.register("paymenttypes", PaymentTypeViewSet)
 router.register("pointsofsale", PointOfSaleViewSet)
 router.register("products", ProductViewSet)
