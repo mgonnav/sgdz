@@ -32,7 +32,7 @@ class PointOfSale(models.Model):
 
 class ShoeModel(models.Model):
     """
-    Physical model code: MF-11
+    Physical model code: MF-10
     """
 
     code = models.CharField(
@@ -70,7 +70,7 @@ class Product(models.Model):
 
 class Provider(models.Model):
     """
-    Physical model code: MF-13
+    Physical model code: MF-12
     """
 
     ruc = models.CharField(
