@@ -11,6 +11,12 @@ from sgz.management.models import (
 )
 
 
+class AllocationSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Allocation
+        fields = "__all__"
+
+
 class PaymentTypeSerializer(serializers.ModelSerializer):
     class Meta:
         model = PaymentType

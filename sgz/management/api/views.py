@@ -2,6 +2,7 @@ from rest_framework.permissions import IsAdminUser
 from rest_framework.viewsets import ModelViewSet
 
 from sgz.management.models import (
+    Allocation,
     PaymentType,
     PointOfSale,
     Product,
@@ -11,6 +12,7 @@ from sgz.management.models import (
 )
 
 from .serializers import (
+    AllocationSerializer,
     PaymentTypeSerializer,
     PointOfSaleSerializer,
     ProductSerializer,
@@ -18,6 +20,13 @@ from .serializers import (
     ShoeModelSerializer,
     StoreroomSerializer,
 )
+
+
+class AllocationViewSet(ModelViewSet):
+    serializer_class = AllocationSerializer
+    queryset = Allocation.objects.all()
+    permission_classes = [IsAdminUser]
+    lookup_field = "name"
 
 
 class PaymentTypeViewSet(ModelViewSet):
