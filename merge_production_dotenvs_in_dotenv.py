@@ -16,7 +16,7 @@ DOTENV_FILE_PATH = ROOT_DIR_PATH / ".env"
 def merge(
     output_file_path: str, merged_file_paths: Sequence[str], append_linesep: bool = True
 ) -> None:
-    with open(output_file_path, "w") as output_file:
+    with open(output_file_path, "w") as output_file:  # skipcq: PTC-W6004
         for merged_file_path in merged_file_paths:
             with open(merged_file_path) as merged_file:
                 merged_file_content = merged_file.read()
@@ -60,7 +60,9 @@ def test_merge(tmpdir_factory, merged_file_count: int, append_linesep: bool):
     with open(output_file_path) as output_file:
         actual_output_file_content = output_file.read()
 
-    assert actual_output_file_content == expected_output_file_content
+    assert (
+        actual_output_file_content == expected_output_file_content
+    )  # skipcq: BAN-B101
 
 
 if __name__ == "__main__":
