@@ -1,7 +1,7 @@
 from django.core.validators import MinLengthValidator, MinValueValidator
 from django.db import models
 
-from sgz.utils.validators import alphabetic_validator, numeric_validator
+from sgz.utils.validators import alphabetic_validator, numeric_validator, ruc_validator
 
 
 class PaymentType(models.Model):
@@ -75,7 +75,7 @@ class Provider(models.Model):
 
     ruc = models.CharField(
         max_length=11,
-        validators=[numeric_validator, MinLengthValidator(11)],
+        validators=[ruc_validator],
         unique=True,
         help_text="RUC of the provider.",
     )
