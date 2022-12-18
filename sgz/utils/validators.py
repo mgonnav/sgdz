@@ -1,11 +1,12 @@
 from django.core.validators import RegexValidator
 
-alphanumeric_validator = RegexValidator(
-    r"^[0-9a-zA-Z]*$", "Only alphanumeric characters are allowed."
+alphabetic_validator = RegexValidator(
+    r"^[a-zA-Z ]*$", "Only alphabetic characters and spaces are allowed."
 )
 
-alphabetic_validator = RegexValidator(
-    r"^[a-zA-Z]*$", "Only alphabetic characters are allowed."
+ruc_validator = RegexValidator(
+    r"^(10|20|15|16|17)[0-9]{9}$",
+    "Invalid RUC. It must start with 10, 20, 15, 16, or 17 and be 11 numbers long.",
 )
 
 numeric_validator = RegexValidator(r"^[0-9]*$", "Only numeric characters are allowed.")
