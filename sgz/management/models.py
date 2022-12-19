@@ -105,7 +105,7 @@ class Storeroom(models.Model):
     )
     allocations = models.ManyToManyField(
         Product,
-        related_name="allocations",
+        related_name="storerooms",
         through="Allocation",
         help_text="Products allocated in a specific storeroom.",
     )

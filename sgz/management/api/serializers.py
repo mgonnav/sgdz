@@ -1,3 +1,4 @@
+from django.db.models import Sum
 from rest_framework import serializers
 
 from sgz.management.models import (
@@ -29,21 +30,34 @@ class PointOfSaleSerializer(serializers.ModelSerializer):
         fields = "__all__"
 
 
+class ShoeModelSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = ShoeModel
+        fields = "__all__"
+
+
 class ProductSerializer(serializers.ModelSerializer):
+    shoe_model = ShoeModelSerializer()
+    allocations = serializers.SerializerMethodField("get_allocations")
+    total_stock = serializers.SerializerMethodField("get_total_stock")
+
     class Meta:
         model = Product
         fields = "__all__"
+
+    def get_allocations(self, product):
+        return {
+            allocation.storeroom.name: allocation.stock
+            for allocation in product.allocation_set.all()
+        }
+
+    def get_total_stock(self, product):
+        return product.allocation_set.all().aggregate(Sum("stock"))["stock__sum"]
 
 
 class ProviderSerializer(serializers.ModelSerializer):
     class Meta:
         model = Provider
-        fields = "__all__"
-
-
-class ShoeModelSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = ShoeModel
         fields = "__all__"
 
 

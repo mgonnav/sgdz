@@ -26,6 +26,12 @@ After that, you can run the containers with:
 $ make up
 ```
 
+Finally, load the shoe model registers with:
+```bash
+$ make init_data
+```
+You should do this step only once.
+
 ### Migrations and User creation
 To run commands that involve calling the `manage.py` file, you can use a temporal django
 container where you can execute these commands. Run the following commands to create migrations,

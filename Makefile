@@ -16,3 +16,6 @@ createsuperuser:
 
 test:
 	docker compose -f local.yml run --rm django pytest
+
+init_data:
+	docker compose -f local.yml run --rm django python manage.py loaddata initial_data/models.json
