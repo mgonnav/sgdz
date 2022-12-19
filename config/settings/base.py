@@ -289,9 +289,6 @@ REST_FRAMEWORK = {
 # django-cors-headers - https://github.com/adamchainz/django-cors-headers#setup
 CORS_URLS_REGEX = r"^/api/.*$"
 
-if DEBUG:
-    CORS_ALLOW_ALL_ORIGINS = True
-
 # By Default swagger ui is available only to admin user(s). You can change permission
 # classes to change that.
 # See more configuration options at
@@ -306,5 +303,7 @@ SPECTACULAR_SETTINGS = {
         {"url": "https://example.com", "description": "Production server"},
     ],
 }
+
 # Your stuff...
 # ------------------------------------------------------------------------------
+CORS_ORIGIN_WHITELIST = env.list("CORS_ORIGIN_WHITELIST")
