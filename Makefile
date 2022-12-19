@@ -19,3 +19,6 @@ test:
 
 init_data:
 	docker compose -f local.yml run --rm django python manage.py loaddata initial_data/models.json
+
+enter_db:
+	docker exec -it sgz_local_postgres psql -U nxzKlUiKpsgjcLAMOxtutZVVjYDuUKEi -W sgz
