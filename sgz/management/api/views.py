@@ -1,4 +1,3 @@
-from rest_framework.permissions import IsAdminUser
 from rest_framework.viewsets import ModelViewSet
 
 from sgz.management.models import (
@@ -10,6 +9,7 @@ from sgz.management.models import (
     ShoeModel,
     Storeroom,
 )
+from sgz.users.permissions import IsOwnerUser
 
 from .serializers import (
     AllocationSerializer,
@@ -25,7 +25,7 @@ from .serializers import (
 class AllocationViewSet(ModelViewSet):
     serializer_class = AllocationSerializer
     queryset = Allocation.objects.all()
-    permission_classes = [IsAdminUser]
+    permission_classes = [IsOwnerUser]
 
 
 class PaymentTypeViewSet(ModelViewSet):
@@ -36,7 +36,7 @@ class PaymentTypeViewSet(ModelViewSet):
 
     serializer_class = PaymentTypeSerializer
     queryset = PaymentType.objects.all()
-    permission_classes = [IsAdminUser]
+    permission_classes = [IsOwnerUser]
     lookup_field = "name"
 
 
@@ -48,7 +48,7 @@ class PointOfSaleViewSet(ModelViewSet):
 
     serializer_class = PointOfSaleSerializer
     queryset = PointOfSale.objects.all()
-    permission_classes = [IsAdminUser]
+    permission_classes = [IsOwnerUser]
     lookup_field = "name"
 
 
@@ -60,7 +60,7 @@ class ProductViewSet(ModelViewSet):
 
     serializer_class = ProductSerializer
     queryset = Product.objects.all()
-    permission_classes = [IsAdminUser]
+    permission_classes = [IsOwnerUser]
     lookup_field = "pk"
 
 
@@ -72,7 +72,7 @@ class ProviderViewSet(ModelViewSet):
 
     serializer_class = ProviderSerializer
     queryset = Provider.objects.all()
-    permission_classes = [IsAdminUser]
+    permission_classes = [IsOwnerUser]
     lookup_field = "contact_name"
 
 
@@ -84,7 +84,7 @@ class ShoeModelViewSet(ModelViewSet):
 
     serializer_class = ShoeModelSerializer
     queryset = ShoeModel.objects.all()
-    permission_classes = [IsAdminUser]
+    permission_classes = [IsOwnerUser]
     lookup_field = "code"
 
 
@@ -96,5 +96,5 @@ class StoreroomViewSet(ModelViewSet):
 
     serializer_class = StoreroomSerializer
     queryset = Storeroom.objects.all()
-    permission_classes = [IsAdminUser]
+    permission_classes = [IsOwnerUser]
     lookup_field = "name"
