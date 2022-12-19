@@ -1,3 +1,4 @@
+from rest_framework.response import Response
 from rest_framework.viewsets import ModelViewSet
 
 from sgz.management.models import (
@@ -86,6 +87,11 @@ class ShoeModelViewSet(ModelViewSet):
     queryset = ShoeModel.objects.all()
     permission_classes = [IsOwnerUser]
     lookup_field = "code"
+
+    def retrieve(self, request, code=""):
+        shoe_models = self.queryset.filter(code__icontains=code)
+        serializer = self.serializer_class(shoe_models, many=True)
+        return Response(serializer.data[:10])
 
 
 class StoreroomViewSet(ModelViewSet):
