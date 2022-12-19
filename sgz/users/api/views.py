@@ -1,4 +1,5 @@
 from django.contrib.auth import get_user_model
+from django.db.models import Q
 from rest_framework import status
 from rest_framework.decorators import action
 from rest_framework.response import Response
@@ -36,3 +37,10 @@ class UserViewSet(ModelViewSet):
         return Response(
             serializer.data, status=status.HTTP_201_CREATED, headers=headers
         )
+
+    def retrieve(self, request, username=""):
+        users = self.queryset.filter(
+            Q(username__icontains=username) | Q(full_name__icontains=username)
+        )
+        serializer = self.serializer_class(users, many=True)
+        return Response(serializer.data[:10])

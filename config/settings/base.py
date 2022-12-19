@@ -80,6 +80,7 @@ THIRD_PARTY_APPS = [
 LOCAL_APPS = [
     "sgz.users",
     "sgz.management",
+    "sgz.sales",
 ]
 
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
