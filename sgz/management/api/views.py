@@ -16,6 +16,7 @@ from .serializers import (
     AllocationSerializer,
     PaymentTypeSerializer,
     PointOfSaleSerializer,
+    ProductCreateUpdateSerializer,
     ProductSerializer,
     ProviderSerializer,
     ShoeModelSerializer,
@@ -63,6 +64,11 @@ class ProductViewSet(ModelViewSet):
     queryset = Product.objects.all()
     permission_classes = [IsOwnerUser]
     lookup_field = "pk"
+
+    def get_serializer_class(self):
+        if self.action == "create" or self.action == "update":
+            return ProductCreateUpdateSerializer
+        return self.serializer_class
 
 
 class ProviderViewSet(ModelViewSet):

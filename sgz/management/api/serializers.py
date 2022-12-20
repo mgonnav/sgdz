@@ -55,6 +55,12 @@ class ProductSerializer(serializers.ModelSerializer):
         return product.allocation_set.all().aggregate(Sum("stock"))["stock__sum"]
 
 
+class ProductCreateUpdateSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Product
+        fields = "__all__"
+
+
 class ProviderSerializer(serializers.ModelSerializer):
     class Meta:
         model = Provider
