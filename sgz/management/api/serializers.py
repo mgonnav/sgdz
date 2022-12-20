@@ -67,15 +67,17 @@ class ProviderSerializer(serializers.ModelSerializer):
         fields = "__all__"
 
 
-class StoreroomAllocationSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = Allocation
-        fields = ("product", "stock")
-
-
 class StoreroomSerializer(serializers.ModelSerializer):
-    allocations = StoreroomAllocationSerializer(read_only=True, many=True)
+    storeroom_allocations = serializers.SerializerMethodField(
+        "get_storeroom_allocations"
+    )
 
     class Meta:
         model = Storeroom
-        fields = ("name", "allocations")
+        fields = ("id", "name", "storeroom_allocations")
+
+    def get_storeroom_allocations(self, storeroom):
+        return {
+            allocation.product.id: allocation.stock
+            for allocation in storeroom.allocation_set.all()
+        }
