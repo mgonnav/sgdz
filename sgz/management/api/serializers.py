@@ -3,6 +3,8 @@ from rest_framework import serializers
 
 from sgz.management.models import (
     Allocation,
+    Brand,
+    Color,
     PaymentType,
     PointOfSale,
     Product,
@@ -30,7 +32,22 @@ class PointOfSaleSerializer(serializers.ModelSerializer):
         fields = "__all__"
 
 
+class BrandSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Brand
+        fields = ("name",)
+
+
+class ColorSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Color
+        fields = ("name", "hex_code")
+
+
 class ShoeModelSerializer(serializers.ModelSerializer):
+    brand = BrandSerializer()
+    color = ColorSerializer()
+
     class Meta:
         model = ShoeModel
         fields = "__all__"

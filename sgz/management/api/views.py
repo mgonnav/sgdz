@@ -3,6 +3,8 @@ from rest_framework.viewsets import ModelViewSet
 
 from sgz.management.models import (
     Allocation,
+    Brand,
+    Color,
     PaymentType,
     PointOfSale,
     Product,
@@ -14,6 +16,8 @@ from sgz.users.permissions import IsOwnerUser
 
 from .serializers import (
     AllocationSerializer,
+    BrandSerializer,
+    ColorSerializer,
     PaymentTypeSerializer,
     PointOfSaleSerializer,
     ProductCreateUpdateSerializer,
@@ -81,6 +85,30 @@ class ProviderViewSet(ModelViewSet):
     queryset = Provider.objects.all()
     permission_classes = [IsOwnerUser]
     lookup_field = "contact_name"
+
+
+class BrandViewSet(ModelViewSet):
+    """
+    CRUD for points of sale
+    Related use case: CU-11
+    """
+
+    serializer_class = BrandSerializer
+    queryset = Brand.objects.all()
+    permission_classes = [IsOwnerUser]
+    lookup_field = "name"
+
+
+class ColorViewSet(ModelViewSet):
+    """
+    CRUD for points of sale
+    Related use case: CU-11
+    """
+
+    serializer_class = ColorSerializer
+    queryset = Color.objects.all()
+    permission_classes = [IsOwnerUser]
+    lookup_field = "name"
 
 
 class ShoeModelViewSet(ModelViewSet):
