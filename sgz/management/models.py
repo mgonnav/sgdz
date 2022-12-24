@@ -4,26 +4,44 @@ from django.db import models
 from sgz.utils.validators import alphabetic_validator, numeric_validator, ruc_validator
 
 
-class PaymentType(models.Model):
+class Brand(models.Model):
     """
-    Physical model code: MF-05
+    Physical model code: MF-15
     """
 
-    name = models.CharField(
-        max_length=50, unique=True, help_text="Name of the payment type."
-    )
+    id = models.PositiveSmallIntegerField(primary_key=True)
+    name = models.CharField(max_length=30, unique=True, help_text="Name of the brand.")
 
     def __str__(self):
         return self.name
 
 
-class PointOfSale(models.Model):
+class Color(models.Model):
     """
-    Physical model code: MF-02
+    Physical model code: MF-14
     """
 
+    id = models.PositiveSmallIntegerField(primary_key=True)
+    name = models.CharField(max_length=20, unique=True, help_text="Name of the color.")
+    hex_code = models.CharField(
+        max_length=7,
+        help_text="Hexadecimal code of the color.",
+        null=True,
+        blank=True,
+    )
+
+    def __str__(self):
+        return f"{self.name} ({self.hex_code})"
+
+
+class PaymentType(models.Model):
+    """
+    Physical model code: MF-05
+    """
+
+    id = models.PositiveSmallIntegerField(primary_key=True)
     name = models.CharField(
-        max_length=50, unique=True, help_text="Name of the point of sale."
+        max_length=50, unique=True, help_text="Name of the payment type."
     )
 
     def __str__(self):
@@ -35,12 +53,17 @@ class ShoeModel(models.Model):
     Physical model code: MF-10
     """
 
+    id = models.PositiveIntegerField(primary_key=True)
+    brand = models.ForeignKey(
+        Brand, on_delete=models.CASCADE, help_text="Brand of the shoe model."
+    )
+    color = models.ForeignKey(
+        Color, on_delete=models.CASCADE, help_text="Colour of the shoe model."
+    )
     code = models.CharField(
         max_length=20, unique=True, help_text="Code of the shoe model."
     )
     name = models.CharField(max_length=50, help_text="Name of the shoe model.")
-    brand = models.CharField(max_length=30, help_text="Brand of the shoe model.")
-    color = models.CharField(max_length=20, help_text="Colour of the shoe model.")
 
     def __str__(self):
         return f"{self.code} | {self.name}"
@@ -51,6 +74,10 @@ class Product(models.Model):
     Physical model code: MF-07
     """
 
+    id = models.PositiveIntegerField(primary_key=True)
+    shoe_model = models.ForeignKey(
+        ShoeModel, on_delete=models.CASCADE, help_text="Shoe model for this product."
+    )
     size = models.DecimalField(
         max_digits=8,
         decimal_places=1,
@@ -63,9 +90,6 @@ class Product(models.Model):
         validators=[MinValueValidator(0.0, "The price cannot be negative.")],
         help_text="Suggested sale price for the product.",
     )
-    shoe_model = models.ForeignKey(
-        ShoeModel, on_delete=models.CASCADE, help_text="Shoe model for this product."
-    )
 
 
 class Provider(models.Model):
@@ -73,6 +97,7 @@ class Provider(models.Model):
     Physical model code: MF-12
     """
 
+    id = models.PositiveSmallIntegerField(primary_key=True)
     ruc = models.CharField(
         max_length=11,
         validators=[ruc_validator],
@@ -80,15 +105,17 @@ class Provider(models.Model):
         help_text="RUC of the provider.",
     )
     company_name = models.CharField(max_length=30, help_text="Name of the provider.")
-    contact_number = models.CharField(
-        max_length=9,
-        validators=[numeric_validator, MinLengthValidator(9)],
-        help_text="Phone number of the provider's contact.",
-    )
     contact_name = models.CharField(
         max_length=50,
         validators=[alphabetic_validator],
         help_text="Name of the provider's contact.",
+    )
+    contact_number = models.CharField(
+        max_length=9,
+        validators=[numeric_validator, MinLengthValidator(9)],
+        help_text="Phone number of the provider's contact.",
+        null=True,
+        blank=True,
     )
 
     def __str__(self):
@@ -100,6 +127,7 @@ class Storeroom(models.Model):
     Physical model code: MF-09
     """
 
+    id = models.PositiveSmallIntegerField(primary_key=True)
     name = models.CharField(
         max_length=50, unique=True, help_text="Name of the storeroom."
     )
@@ -119,6 +147,31 @@ class Allocation(models.Model):
     Physical model code: MF-08
     """
 
-    product = models.ForeignKey(Product, on_delete=models.CASCADE)
-    storeroom = models.ForeignKey(Storeroom, on_delete=models.CASCADE)
-    stock = models.PositiveIntegerField()
+    id = models.PositiveIntegerField(primary_key=True)
+    storeroom = models.ForeignKey(
+        Storeroom,
+        on_delete=models.CASCADE,
+        help_text="Storeroom where the product is allocated.",
+    )
+    product = models.ForeignKey(
+        Product,
+        on_delete=models.CASCADE,
+        help_text="Product allocated in a specific storeroom.",
+    )
+    stock = models.PositiveIntegerField(
+        help_text="Stock of the product in the storeroom."
+    )
+
+
+class PointOfSale(models.Model):
+    """
+    Physical model code: MF-02
+    """
+
+    id = models.PositiveSmallIntegerField(primary_key=True)
+    name = models.CharField(
+        max_length=50, unique=True, help_text="Name of the point of sale."
+    )
+
+    def __str__(self):
+        return self.name

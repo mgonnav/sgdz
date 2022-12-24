@@ -2,7 +2,7 @@ from django.conf import settings
 from django.core.validators import MinValueValidator
 from django.db import models
 
-from sgz.management.models import PaymentType, PointOfSale, Product
+from sgz.management.models import Allocation, PaymentType, PointOfSale, Product
 
 
 class Sale(models.Model):
@@ -10,6 +10,7 @@ class Sale(models.Model):
     Physical model code: MF-03
     """
 
+    id = models.PositiveIntegerField(primary_key=True)
     user = models.ForeignKey(
         settings.AUTH_USER_MODEL,
         on_delete=models.CASCADE,
@@ -40,9 +41,13 @@ class SaleDetail(models.Model):
     Physical model code: MF-06
     """
 
+    id = models.PositiveIntegerField(primary_key=True)
     sale = models.ForeignKey(Sale, on_delete=models.CASCADE, help_text="Related sale.")
     product = models.ForeignKey(
         Product, on_delete=models.CASCADE, help_text="Related product."
+    )
+    allocation = models.ForeignKey(
+        Allocation, on_delete=models.CASCADE, help_text="Related allocation."
     )
     price = models.DecimalField(
         max_digits=8,
@@ -51,7 +56,6 @@ class SaleDetail(models.Model):
         help_text="Sale price of the product.",
     )
     number_of_units = models.PositiveSmallIntegerField(help_text="Number of units.")
-    # Should we add Storeroom?
 
 
 class Payment(models.Model):
@@ -59,6 +63,7 @@ class Payment(models.Model):
     Physical model code: MF-04
     """
 
+    id = models.PositiveIntegerField(primary_key=True)
     sale = models.ForeignKey(Sale, on_delete=models.CASCADE, help_text="Related sale.")
     payment_type = models.ForeignKey(
         PaymentType, on_delete=models.CASCADE, help_text="Payment type."
