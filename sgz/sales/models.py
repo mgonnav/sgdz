@@ -73,7 +73,7 @@ class Payment(models.Model):
     )
     operation_code = models.CharField(
         max_length=30,
-        null=True,
         blank=True,
         help_text="Operation code related to the payment.",
+        default="",
     )

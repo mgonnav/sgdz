@@ -24,8 +24,8 @@ class Color(models.Model):
     hex_code = models.CharField(
         max_length=7,
         help_text="Hexadecimal code of the color.",
-        null=True,
         blank=True,
+        default="",
     )
 
     def __str__(self):
@@ -108,8 +108,8 @@ class Provider(models.Model):
         max_length=9,
         validators=[numeric_validator, MinLengthValidator(9)],
         help_text="Phone number of the provider's contact.",
-        null=True,
         blank=True,
+        default="",
     )
 
     def __str__(self):
