@@ -99,6 +99,11 @@ class BrandViewSet(ModelViewSet):
     permission_classes = [IsOwnerUser]
     lookup_field = "name"
 
+    def retrieve(self, request, *args, name="", **kwargs):
+        brands = self.queryset.filter(name__icontains=name)
+        serializer = self.serializer_class(brands, many=True)
+        return Response(serializer.data[:10])
+
 
 class ColorViewSet(ModelViewSet):
     """
@@ -110,6 +115,11 @@ class ColorViewSet(ModelViewSet):
     queryset = Color.objects.all()
     permission_classes = [IsOwnerUser]
     lookup_field = "name"
+
+    def retrieve(self, request, *args, name="", **kwargs):
+        colors = self.queryset.filter(name__icontains=name)
+        serializer = self.serializer_class(colors, many=True)
+        return Response(serializer.data[:10])
 
 
 class ShoeModelViewSet(ModelViewSet):
