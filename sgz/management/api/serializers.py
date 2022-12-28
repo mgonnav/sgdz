@@ -45,12 +45,18 @@ class ColorSerializer(serializers.ModelSerializer):
 
 
 class ShoeModelSerializer(serializers.ModelSerializer):
-    brand = BrandSerializer()
-    color = ColorSerializer()
+    shoe_brand = serializers.SerializerMethodField("get_brand")
+    shoe_colors = serializers.SerializerMethodField("get_colors")
 
     class Meta:
         model = ShoeModel
-        fields = "__all__"
+        exclude = ("brand", "colors")
+
+    def get_brand(self, shoe_model):
+        return shoe_model.brand.name
+
+    def get_colors(self, shoe_model):
+        return {color.name: color.hex_code for color in shoe_model.colors.all()}
 
 
 class ProductSerializer(serializers.ModelSerializer):

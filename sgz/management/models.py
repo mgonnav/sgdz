@@ -53,8 +53,8 @@ class ShoeModel(models.Model):
     brand = models.ForeignKey(
         Brand, on_delete=models.CASCADE, help_text="Brand of the shoe model."
     )
-    color = models.ForeignKey(
-        Color, on_delete=models.CASCADE, help_text="Colour of the shoe model."
+    colors = models.ManyToManyField(
+        Color, related_name="shoe_models", help_text="Colour of the shoe model."
     )
     code = models.CharField(
         max_length=20, unique=True, help_text="Code of the shoe model."
