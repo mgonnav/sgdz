@@ -10,7 +10,6 @@ class Sale(models.Model):
     Physical model code: MF-03
     """
 
-    id = models.PositiveIntegerField(primary_key=True)
     user = models.ForeignKey(
         settings.AUTH_USER_MODEL,
         on_delete=models.CASCADE,
@@ -41,7 +40,6 @@ class SaleDetail(models.Model):
     Physical model code: MF-06
     """
 
-    id = models.PositiveIntegerField(primary_key=True)
     sale = models.ForeignKey(Sale, on_delete=models.CASCADE, help_text="Related sale.")
     product = models.ForeignKey(
         Product, on_delete=models.CASCADE, help_text="Related product."
@@ -63,7 +61,6 @@ class Payment(models.Model):
     Physical model code: MF-04
     """
 
-    id = models.PositiveIntegerField(primary_key=True)
     sale = models.ForeignKey(Sale, on_delete=models.CASCADE, help_text="Related sale.")
     payment_type = models.ForeignKey(
         PaymentType, on_delete=models.CASCADE, help_text="Payment type."

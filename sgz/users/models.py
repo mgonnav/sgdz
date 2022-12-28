@@ -13,5 +13,7 @@ class User(AbstractUser):
         default=False, help_text="Whether this is an owner user."
     )
 
+    REQUIRED_FIELDS = ["full_name", "is_owner"]
+
     def get_absolute_url(self):
         return reverse("users:detail", kwargs={"username": self.username})

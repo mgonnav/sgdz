@@ -9,7 +9,6 @@ class Brand(models.Model):
     Physical model code: MF-15
     """
 
-    id = models.PositiveSmallIntegerField(primary_key=True)
     name = models.CharField(max_length=30, unique=True, help_text="Name of the brand.")
 
     def __str__(self):
@@ -21,7 +20,6 @@ class Color(models.Model):
     Physical model code: MF-14
     """
 
-    id = models.PositiveSmallIntegerField(primary_key=True)
     name = models.CharField(max_length=20, unique=True, help_text="Name of the color.")
     hex_code = models.CharField(
         max_length=7,
@@ -39,7 +37,6 @@ class PaymentType(models.Model):
     Physical model code: MF-05
     """
 
-    id = models.PositiveSmallIntegerField(primary_key=True)
     name = models.CharField(
         max_length=50, unique=True, help_text="Name of the payment type."
     )
@@ -53,7 +50,6 @@ class ShoeModel(models.Model):
     Physical model code: MF-10
     """
 
-    id = models.PositiveIntegerField(primary_key=True)
     brand = models.ForeignKey(
         Brand, on_delete=models.CASCADE, help_text="Brand of the shoe model."
     )
@@ -74,7 +70,6 @@ class Product(models.Model):
     Physical model code: MF-07
     """
 
-    id = models.PositiveIntegerField(primary_key=True)
     shoe_model = models.ForeignKey(
         ShoeModel, on_delete=models.CASCADE, help_text="Shoe model for this product."
     )
@@ -97,7 +92,6 @@ class Provider(models.Model):
     Physical model code: MF-12
     """
 
-    id = models.PositiveSmallIntegerField(primary_key=True)
     ruc = models.CharField(
         max_length=11,
         validators=[ruc_validator],
@@ -127,7 +121,6 @@ class Storeroom(models.Model):
     Physical model code: MF-09
     """
 
-    id = models.PositiveSmallIntegerField(primary_key=True)
     name = models.CharField(
         max_length=50, unique=True, help_text="Name of the storeroom."
     )
@@ -147,7 +140,6 @@ class Allocation(models.Model):
     Physical model code: MF-08
     """
 
-    id = models.PositiveIntegerField(primary_key=True)
     storeroom = models.ForeignKey(
         Storeroom,
         on_delete=models.CASCADE,
@@ -168,7 +160,6 @@ class PointOfSale(models.Model):
     Physical model code: MF-02
     """
 
-    id = models.PositiveSmallIntegerField(primary_key=True)
     name = models.CharField(
         max_length=50, unique=True, help_text="Name of the point of sale."
     )
