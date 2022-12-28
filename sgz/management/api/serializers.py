@@ -35,13 +35,19 @@ class PointOfSaleSerializer(serializers.ModelSerializer):
 class BrandSerializer(serializers.ModelSerializer):
     class Meta:
         model = Brand
-        fields = ("name",)
+        fields = "__all__"
 
 
 class ColorSerializer(serializers.ModelSerializer):
     class Meta:
         model = Color
-        fields = ("name", "hex_code")
+        fields = "__all__"
+
+
+class ShoeModelCreateUpdateSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = ShoeModel
+        fields = "__all__"
 
 
 class ShoeModelSerializer(serializers.ModelSerializer):

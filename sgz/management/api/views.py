@@ -23,6 +23,7 @@ from .serializers import (
     ProductCreateUpdateSerializer,
     ProductSerializer,
     ProviderSerializer,
+    ShoeModelCreateUpdateSerializer,
     ShoeModelSerializer,
     StoreroomSerializer,
 )
@@ -121,6 +122,11 @@ class ShoeModelViewSet(ModelViewSet):
     queryset = ShoeModel.objects.all()
     permission_classes = [IsOwnerUser]
     lookup_field = "code"
+
+    def get_serializer_class(self):
+        if self.action == "create" or self.action == "update":
+            return ShoeModelCreateUpdateSerializer
+        return self.serializer_class
 
     def retrieve(self, request, code=""):
         shoe_models = self.queryset.filter(code__icontains=code)
