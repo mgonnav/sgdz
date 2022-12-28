@@ -3,5274 +3,5274 @@
     "model": "management.shoemodel",
     "fields": {
       "code": "CM7725",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Ax2",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BC0694",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex",
-      "color": "Celeste pta ama"
+      "colors": [2]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BCO524",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Ax3/plta Cont",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "A57979",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Pega",
-      "color": "Azul/verde"
+      "colors": [3]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF3512",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Cont",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EG2885",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Cont",
-      "color": "Verd pacy-celes"
+      "colors": [4]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FX4702",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Eastral",
-      "color": "Celestelog ver"
+      "colors": [5]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF3515",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Eastrail",
-      "color": "Azul/celeste"
+      "colors": [6]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BAQ422",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Alta Run Psdor",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CM8378",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Alta Run",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CM8580",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Alta Run X",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF1093",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Tensur Escolar",
-      "color": "Blco/negro"
+      "colors": [8]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AW4884",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Advantage",
-      "color": "Blco/verde"
+      "colors": [9]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BB9976",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Advantage",
-      "color": "Blco/rosa"
+      "colors": [10]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EE7692",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Advantage",
-      "color": "Blco"
+      "colors": [11]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF0221",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Advantage/pg",
-      "color": "Blco/rosado"
+      "colors": [12]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "881941013",
-      "brand": "Adidas",
-      "name": "Basket Ca\u00f1a",
-      "color": "Negro"
+      "brand": 1,
+      "name": "Basket Caña",
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BB9939",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Claudofom",
-      "color": "Negro/plta blca"
+      "colors": [13]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CP8840",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Claudofom",
-      "color": "Rosado"
+      "colors": [14]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "F36410",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Grand Court",
-      "color": "Azul lin blco"
+      "colors": [15]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EE6807",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Vl Court 2.0 Urb",
-      "color": "Plomo osc"
+      "colors": [16]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF0573",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Game Court",
-      "color": "Negro/ brillo"
+      "colors": [17]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "B96551",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Paramation",
-      "color": "Plomo"
+      "colors": [18]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF0148",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Runfalcon",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EE6932",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Runfalconi",
-      "color": "Negr/rosa"
+      "colors": [19]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "F36541",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Runfalconi",
-      "color": "Uva/plom/ros"
+      "colors": [20]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FY5946",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Runfalcony 2.0",
-      "color": "Negro/log blco"
+      "colors": [21]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FZ2802",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Runfalcony 2.1",
-      "color": "Azul los blco"
+      "colors": [22]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FZ2807",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Runfalcony 2.0",
-      "color": "Azul acero"
+      "colors": [23]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FY9498",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Runfalcony",
-      "color": "Azul log blanco"
+      "colors": [24]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EG2544",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Runfalconi",
-      "color": "Azul"
+      "colors": [25]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FV9441",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Runfalconi K",
-      "color": "Negro fucc"
+      "colors": [26]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AQ1775002",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Cuero",
-      "color": "Negro "
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "78906",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Super Star",
-      "color": "Blanca/neg"
+      "colors": [27]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "C77154",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Super Star",
-      "color": "Blco log negro"
+      "colors": [28]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BA8380",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Super Star",
-      "color": "Blanco "
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "C77394",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Super Star",
-      "color": "Blanca/neg"
+      "colors": [27]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "B23642",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Super Star",
-      "color": "Negro/blco"
+      "colors": [29]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BA8379",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Super Star",
-      "color": "Negro/blanco"
+      "colors": [30]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "789002",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Super Star",
-      "color": "Negro/pega"
+      "colors": [31]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BB-5408",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Super Star",
-      "color": "Negro/ escarch"
+      "colors": [32]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BA7666",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Super Star",
-      "color": "Blco"
+      "colors": [11]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "B23665",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Super Star",
-      "color": "Blco/fuccia"
+      "colors": [33]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "B22713",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Stan Smit",
-      "color": "Blco / rosado"
+      "colors": [34]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF0213",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Advantage",
-      "color": "Blanco verde"
+      "colors": [35]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CG6676",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Stan Smit",
-      "color": "Negro/color"
+      "colors": [36]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BB9623",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Advantage",
-      "color": "Negro/fdo/rosa"
+      "colors": [37]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "B75798",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "V Raccer",
-      "color": "Granate"
+      "colors": [38]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "F33969",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Alphabounce",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CG4025",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Boss Super",
-      "color": "Negro/narj"
+      "colors": [39]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "F36331",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Aswer Run",
-      "color": "Negro/plta blca"
+      "colors": [13]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BB7048",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Lite Racer Claudf",
-      "color": "Azul marino"
+      "colors": [40]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AH2458",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Aveng Marvel",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CG5738",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Hoops",
-      "color": "Rosado"
+      "colors": [14]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "G27187",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Fr Mickey",
-      "color": "Rojo negro"
+      "colors": [41]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FV4257",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Fr Mickey",
-      "color": "Blco/roj/negr"
+      "colors": [42]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FW7428",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Fr Mickey",
-      "color": "Rojo/pnt bco"
+      "colors": [43]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FV4263",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Fr Frozen",
-      "color": "Azul/celeste"
+      "colors": [6]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF9743",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Fr Frosen",
-      "color": "Turqueza"
+      "colors": [44]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FV4262",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Fr Frozen",
-      "color": "Morado"
+      "colors": [45]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FV4185",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Fr Frozen",
-      "color": "Morado"
+      "colors": [45]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EE6957",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Forta Run",
-      "color": "Piel"
+      "colors": [46]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FW2597",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Forta Run",
-      "color": "Mord/salmo"
+      "colors": [47]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FW2579",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Forta Run",
-      "color": "Negro/blco"
+      "colors": [29]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FW2577",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Forta Run",
-      "color": "Azul/verd fluor"
+      "colors": [48]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FV2638",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Forta Run",
-      "color": "Azul/verd fluor"
+      "colors": [48]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF9693",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Forta Run",
-      "color": "Azul/plta rojo"
+      "colors": [49]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "G27142",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Forta Run",
-      "color": "Fucsia"
+      "colors": [50]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FW2594",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Forta Run Xk",
-      "color": "Plomo/log ros"
+      "colors": [51]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FV4100",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Rapida Run J",
-      "color": "Plomo/verde"
+      "colors": [52]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FV6021",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Super Nova W",
-      "color": "Rosa/blco"
+      "colors": [53]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "6018",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Super Nova W",
-      "color": "Plomo"
+      "colors": [18]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FX4832",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Rasponce",
-      "color": "Plomo verd fosfl"
+      "colors": [54]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EH2527",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Mavia X",
-      "color": "Negro/alum"
+      "colors": [55]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF5913",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Path Rum",
-      "color": "Azul"
+      "colors": [25]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EG8633",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Runfalconi",
-      "color": "Azul"
+      "colors": [25]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EH1403",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Nova Flow",
-      "color": "Celeste agua"
+      "colors": [56]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF8909",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Pulse Boost Hd",
-      "color": "Azul marino"
+      "colors": [40]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EG9971",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Pulse Boost Hd",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EE7885",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Gran Court",
-      "color": "Negro plt caramelo"
+      "colors": [57]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FV8108",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Cour Master",
-      "color": "Negro/plt car"
+      "colors": [58]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "B32703",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Stan Smit",
-      "color": "Blco/rosado"
+      "colors": [12]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FX3647",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Responce",
-      "color": "Blco/plom/salm"
+      "colors": [59]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EG1293",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Edge Lux",
-      "color": "Rosad/blc plo"
+      "colors": [60]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "G28444",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Edge Lux",
-      "color": "Bco/negr pntos"
+      "colors": [61]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FW7393",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Durama",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF1442",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Solas Ride",
-      "color": "Plom/cele"
+      "colors": [62]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EG8369",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Galaxy 4",
-      "color": "Azul/marino"
+      "colors": [63]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FV0987",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Samkei",
-      "color": "Blco/dorad"
+      "colors": [64]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FV0985",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Samkei",
-      "color": "Mor/lil/fuc"
+      "colors": [65]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EG0957",
-      "brand": "Adidas ",
+      "brand": 1,
       "name": "Senso Boost",
-      "color": "Aluminio/coral"
+      "colors": [66]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EG0960",
-      "brand": "Adidas ",
+      "brand": 1,
       "name": "Senso Boost",
-      "color": "Plomo/negro"
+      "colors": [67]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FV7388",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Continental",
-      "color": "Blanco/marron"
+      "colors": [68]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EG1596",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Vs Switchh",
-      "color": "Rosado"
+      "colors": [14]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EH0539",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Archivo C",
-      "color": "Azul/log blco"
+      "colors": [69]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EH0533",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Archivo C",
-      "color": "Melon/log blco"
+      "colors": [70]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EG5141",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Vs Switchh",
-      "color": "Azul/log blco"
+      "colors": [69]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FY8887",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Ultrabosh",
-      "color": "Blanco /verde ros"
+      "colors": [71]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FW4002",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Tensur",
-      "color": "Gris log blco"
+      "colors": [72]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF1102",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Tensur",
-      "color": "Negro/log blco"
+      "colors": [21]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EE4266",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Plta Ultrabosh",
-      "color": "Plom/azl log ros"
+      "colors": [73]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "B37294",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Samba",
-      "color": "Negro/log blco"
+      "colors": [21]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "B39796",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Tennis",
-      "color": "Azul log blco"
+      "colors": [74]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF5909",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Path Run",
-      "color": "Rosada"
+      "colors": [75]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EG9122",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Path Run",
-      "color": "Plomo"
+      "colors": [18]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FX3594",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Racer",
-      "color": "Azul/coral"
+      "colors": [76]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FX3581",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Coreracer",
-      "color": "Negro/log blco"
+      "colors": [21]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FY6746",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Galxy5",
-      "color": "Palo rosa"
+      "colors": [77]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FY6743",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Galxy6",
-      "color": "Negro log ros"
+      "colors": [78]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FY6718",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Galaxy 5",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FY6717",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Galaxy 5",
-      "color": "Plomo/log neg"
+      "colors": [79]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FW1187",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Galaxy 5",
-      "color": "Negro/ana atrz"
+      "colors": [80]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FW6125",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Galaxy5",
-      "color": "Negro/log blco"
+      "colors": [21]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AT8150-010",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jr Super Fly7",
-      "color": "Violeta/ chuso"
+      "colors": [81]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "454500-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Pico",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "832883-011",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Pico",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "454500-104",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Pico",
-      "color": "Blanca"
+      "colors": [82]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AV3167-100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Pico Pega/pazd",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "314183-117",
-      "brand": "Nike",
+      "brand": 2,
       "name": "For One",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "314193-117",
-      "brand": "Nike",
+      "brand": 2,
       "name": "For One",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "314192-009",
-      "brand": "Nike",
+      "brand": 2,
       "name": "For One",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "315115038",
-      "brand": "Nike",
+      "brand": 2,
       "name": "For One",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CT1414-100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "For One",
-      "color": "Blco/verde"
+      "colors": [9]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CN8533-100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "For One",
-      "color": "Blco/celeste"
+      "colors": [83]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "315115-157",
-      "brand": "Nike",
+      "brand": 2,
       "name": "For One",
-      "color": "Blco/rosado"
+      "colors": [12]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CK7648-002",
-      "brand": "Nike",
+      "brand": 2,
       "name": "For One",
-      "color": "Plomo claro"
+      "colors": [84]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CK7648-100",
-      "brand": "Nike ",
+      "brand": 2,
       "name": "For One",
-      "color": "Blco celeste"
+      "colors": [85]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "314192-117",
-      "brand": "Nike",
+      "brand": 2,
       "name": "For One",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "881942405",
-      "brand": "Nike",
-      "name": "Ca\u00f1a Basket",
-      "color": "Azul "
+      "brand": 2,
+      "name": "Caña Basket",
+      "colors": [25]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "881941005",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Hustle /basket",
-      "color": "Plomo"
+      "colors": [18]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "861537008",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Camuflada",
-      "color": "Negro militar"
+      "colors": [86]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "881953-005",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Pegaso Zum",
-      "color": "Azul/negro"
+      "colors": [87]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "843975800",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Zuum",
-      "color": "Naranja"
+      "colors": [88]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "844546-00-1",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Zoom",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "818100-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Zoom",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "A7066-066",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max Infurt Bask",
-      "color": "Negro/ rojo"
+      "colors": [89]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AA7066-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max Infurt Bask",
-      "color": "Negro/plomo"
+      "colors": [90]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "A00554-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max",
-      "color": "Negro/chispead"
+      "colors": [91]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "908984-004",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Dowshister",
-      "color": "Plomo"
+      "colors": [18]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "908934-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Dowshister",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "869972",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Dowshister",
-      "color": "Uva"
+      "colors": [92]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CZ3949001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Dowshister",
-      "color": "Negro/log/blc"
+      "colors": [93]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "599409414",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Thea",
-      "color": "Celeste"
+      "colors": [94]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "B14444-009",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Thea Air Max",
-      "color": "Negro log fuccia"
+      "colors": [95]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "59409-108",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Thea",
-      "color": "Blco"
+      "colors": [11]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "943309-501",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Revolution 4",
-      "color": "Azul marino"
+      "colors": [40]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "819302-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Revolution",
-      "color": "Negro/plta blco"
+      "colors": [96]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BQ3204-002",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Revolution",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AT1368-401",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Reat",
-      "color": "Azul"
+      "colors": [25]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "924206-300",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Training",
-      "color": "Verde"
+      "colors": [97]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CV3580-002",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Training",
-      "color": "Negro/log blc"
+      "colors": [98]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "943287-602",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Flex",
-      "color": "Lila"
+      "colors": [99]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "709021-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Flex",
-      "color": "Morad/plom"
+      "colors": [100]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "924339-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Flex Tr8",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AH3470-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Rival",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AH3472-600",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Rival",
-      "color": "Rosado"
+      "colors": [14]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CD7093-102",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Strada",
-      "color": "Blco/log plm/ros"
+      "colors": [101]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BB1229003",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max",
-      "color": "Plomo"
+      "colors": [18]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "924338-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max Training",
-      "color": "Plomo/negro"
+      "colors": [67]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW4554-600",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max Sc",
-      "color": "Blco rosa"
+      "colors": [102]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW4555-004",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max Sc",
-      "color": "Gris az"
+      "colors": [103]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CJ0842-007",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max E",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AQ0266-009",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Capsula",
-      "color": "Plomo acero"
+      "colors": [104]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AT4617-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Capsula",
-      "color": "Plomo talon amarillo"
+      "colors": [105]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CD4165-103",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Airmax Exel",
-      "color": "Blco"
+      "colors": [11]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AA2146-800",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Airmax Axis",
-      "color": "Rojo/negro"
+      "colors": [106]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AA2146-003",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Airmax Axis",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CT1430-101",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Renew",
-      "color": "Blco turqueza"
+      "colors": [107]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BG3204-002",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Revolution",
-      "color": "Negro/blco"
+      "colors": [29]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BQ3207008",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Revolution",
-      "color": "Negro/naranja/lila"
+      "colors": [108]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CZ8591-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Revolution",
-      "color": "Negro/blco"
+      "colors": [29]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BQ3204-400",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Revolution 5",
-      "color": "Azul"
+      "colors": [25]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AT1238-003",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Renew",
-      "color": "Negro log blco"
+      "colors": [109]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CJ3816002",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Wearlday",
-      "color": "Negro log plt"
+      "colors": [110]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CJ3816103",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Wearlday",
-      "color": "Blco/mor/log n"
+      "colors": [111]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "749747-010",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Court Urb",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CJ1682-004",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Wearllday",
-      "color": "Negro/log blc"
+      "colors": [98]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CJ3816-002",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Wearalday",
-      "color": "Negro/blco"
+      "colors": [29]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CJ3816-103",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Wearallday",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CJ1677-602",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Wearallday",
-      "color": "Rosado"
+      "colors": [14]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CJ1677-104",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Wearallday",
-      "color": "Blco-ver"
+      "colors": [112]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CD0230-404",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Quest 3",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CD0230-002",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Quest",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "306462-01",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Jordan",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "36738201",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Wired Knit",
-      "color": "Negro/plomo"
+      "colors": [90]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "37360407",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Carina Rosa Water",
-      "color": "Pali rosa"
+      "colors": [113]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "36676801",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Roma Clamur",
-      "color": "Purpura escarchado"
+      "colors": [114]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "370986-01",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Cabana Racer Glitz",
-      "color": "Plomo/escarch"
+      "colors": [115]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "33980501",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Bhw Hhs Drift Ultra",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "37154303",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Corflex V2",
-      "color": "Rosado blco"
+      "colors": [116]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "36265001",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Corflex",
-      "color": "Azul marino"
+      "colors": [40]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "19297204",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Fun Racer",
-      "color": "Fuccia/rosado"
+      "colors": [117]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "191097-27",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Engimeeer Knit",
-      "color": "Negro/verd"
+      "colors": [118]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "365208-19",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Soft Foom Samach",
-      "color": "Blco-urb"
+      "colors": [119]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "370488-08",
-      "brand": "Puma",
-      "name": "Rebound/ca\u00f1a",
-      "color": "Negro/rojo"
+      "brand": 3,
+      "name": "Rebound/caña",
+      "colors": [120]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "370488-07",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Rebound Layup",
-      "color": "Azul blco"
+      "colors": [121]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "19307802",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Prowslip",
-      "color": "Plomo/blco"
+      "colors": [122]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "19349601",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Sg Runner Quilted",
-      "color": "Crema"
+      "colors": [123]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "19349302",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Sg Rummer Embroidery",
-      "color": "Azul"
+      "colors": [25]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "37210401",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Love Wns",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "30619502",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Roma",
-      "color": "Blco/negro"
+      "colors": [8]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "30608304",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Roma-ferrary",
-      "color": "Guinda"
+      "colors": [124]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "30619501BMW",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Roma",
-      "color": "Negro/blco"
+      "colors": [29]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "30608305",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Roma-ferrary",
-      "color": "Azul"
+      "colors": [25]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "37301805",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Dptvo Taper",
-      "color": "Blco/negro"
+      "colors": [8]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "193244-01",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Alt Asym",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "192632-04",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Radiate Xtpaterm",
-      "color": "Rosado"
+      "colors": [14]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "370009-07",
-      "brand": "Puma ",
+      "brand": 3,
       "name": "Pacer Next Excel Core",
-      "color": "Negro rojo"
+      "colors": [125]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "193158-02",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Radiate Xt Jelly",
-      "color": "Crema/verde"
+      "colors": [126]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "371571-05",
-      "brand": "Puma",
+      "brand": 3,
       "name": "R5 9.8 Fresh",
-      "color": "Plom/blco/tur"
+      "colors": [127]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "37292001",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Xray",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "19373308",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Softride",
-      "color": "Plomo/log plo"
+      "colors": [128]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "19370701",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Softride",
-      "color": "Negro/log ros"
+      "colors": [129]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "19479901",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Resolve",
-      "color": "Negro/log n"
+      "colors": [130]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "37424002",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Taper",
-      "color": "Negro/log blco"
+      "colors": [21]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "37575303",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Urbana",
-      "color": "Negro/log blco"
+      "colors": [21]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "30590301",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Ferrary",
-      "color": "Rojo"
+      "colors": [131]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "19148705",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Enzo Weave",
-      "color": "Plomo"
+      "colors": [18]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "37000910",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Racer Next",
-      "color": "Negr/plom/ros"
+      "colors": [132]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "19536",
-      "brand": "Reebok",
+      "brand": 4,
       "name": "Prince",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "J95362",
-      "brand": "Reebock",
+      "brand": 5,
       "name": "Prince",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "J95361",
-      "brand": "Reebock",
+      "brand": 5,
       "name": "Prince",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
-      "code": "\u00b7118379934",
-      "brand": "Reebok",
+      "code": "·118379934",
+      "brand": 4,
       "name": "Clasica Orcoplus",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "1475",
-      "brand": "Reebock",
+      "brand": 5,
       "name": "Prince",
-      "color": "Blsnco "
+      "colors": [133]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FV5294",
-      "brand": "Reebock",
+      "brand": 5,
       "name": "Prince",
-      "color": "Blanco/azul"
+      "colors": [134]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "7344",
-      "brand": "Reebock",
+      "brand": 5,
       "name": "Prince",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "995361",
-      "brand": "Reebock",
+      "brand": 5,
       "name": "Prince",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BBK12817",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Sketcher",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BKG13100",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Sketcher",
-      "color": "Negro/plomo"
+      "colors": [90]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "2200817",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Nvgd",
-      "color": "Azul/lateado/plomo"
+      "colors": [135]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "220027",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Bkcc",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "996472",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "L/pkmt",
-      "color": "Rosada/luces"
+      "colors": [136]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "149346",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Nvpk",
-      "color": "Azul fond rosa"
+      "colors": [137]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "232069",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Bbk",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "400017LBKY5",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Bkgy",
-      "color": "Negro/plomo"
+      "colors": [90]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "3020422",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Gymt",
-      "color": "Plateada lin/cel"
+      "colors": [138]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "400017",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Camo",
-      "color": "Negro milit"
+      "colors": [139]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "328161",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Bkgd",
-      "color": "Negro/fnd dor"
+      "colors": [140]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "8446OL-GLD",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Gld",
-      "color": "Dorado/escarch"
+      "colors": [141]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "302033",
-      "brand": "Under ",
+      "brand": 7,
       "name": "Under",
-      "color": "Rojo"
+      "colors": [131]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "30",
-      "brand": "Under ",
+      "brand": 7,
       "name": "Under",
-      "color": "Azul"
+      "colors": [25]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "3021248-500",
-      "brand": "Under ",
+      "brand": 7,
       "name": "Under",
-      "color": "Uva"
+      "colors": [92]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "802725",
-      "brand": "Fila",
+      "brand": 8,
       "name": "31v308x-3165",
-      "color": "Azul osc"
+      "colors": [142]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "F8204-17",
-      "brand": "Axis",
+      "brand": 9,
       "name": "Voley",
-      "color": "Azul/naranj"
+      "colors": [143]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "18AW1014A004",
-      "brand": "Axis",
+      "brand": 9,
       "name": "Voley",
-      "color": "Negro verde"
+      "colors": [144]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "7131801",
-      "brand": "Convert",
-      "name": "Convert Ca\u00f1 Baja",
-      "color": "Negro"
+      "brand": 10,
+      "name": "Convert Cañ Baja",
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CODIGO",
-      "brand": "Marca",
+      "brand": 11,
       "name": "Modelo",
-      "color": "Color"
+      "colors": [145]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "852484001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Chimp Mercurial",
-      "color": "Plom, plta anarj"
+      "colors": [146]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DB2318",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Chimp Predator",
-      "color": "Negro-rojo"
+      "colors": [147]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "7332-070",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Chimpun Mercurial",
-      "color": "Plomo amarillo"
+      "colors": [148]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CP-9174",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Chim/nemezis",
-      "color": "Plo/cel/plt ros"
+      "colors": [149]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DB2416",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Chimpun Nemeziz 173",
-      "color": "Az/ver/neg"
+      "colors": [150]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "903600",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Chimpun",
-      "color": "Rojo"
+      "colors": [131]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BB9436",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Chimpun 18.3fg",
-      "color": "Blco log rosado"
+      "colors": [151]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "SGC",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Chimpun Nemeziz 173",
-      "color": "Az/ver/neg"
+      "colors": [150]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "PRB698001",
-      "brand": "Cp 9012",
+      "brand": 12,
       "name": "Chimpun",
-      "color": "Azul verde"
+      "colors": [152]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AO328840",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Chimpun Phanton",
-      "color": "Azul/log plat"
+      "colors": [153]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CM8508",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Chim Nemezis",
-      "color": "Blco manchas"
+      "colors": [154]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "852580",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Chimp Hiperv",
-      "color": "Negro p/naran"
+      "colors": [155]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW6672-060",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Phantom Gt/chimp",
-      "color": "Negro/log roj"
+      "colors": [156]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DB2396",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Messi",
-      "color": "Blanco azul"
+      "colors": [157]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CP9914",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Chot Predator",
-      "color": "Negro blco"
+      "colors": [158]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DB2435",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Choteras",
-      "color": "Verde limon"
+      "colors": [159]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DB0538",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Chot Nemezis",
-      "color": "Blco logo  oro"
+      "colors": [160]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BB585",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Chot Goleta",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BB0560",
-      "brand": "Adidas ",
+      "brand": 1,
       "name": "Chot Mercuri Conquista",
-      "color": "Negro conqu"
+      "colors": [161]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "10474501",
-      "brand": "Puma",
+      "brand": 3,
       "name": "One 3 Lth Tt",
-      "color": "Plomnrja"
+      "colors": [162]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "10475103",
-      "brand": "Puma",
+      "brand": 3,
       "name": "One 4 Syn Tt",
-      "color": "Azul plat"
+      "colors": [163]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "10449904",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Spirit Tt",
-      "color": "Plom blco"
+      "colors": [164]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AH7317-107",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Macistax",
-      "color": "Blco"
+      "colors": [11]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "852598308",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Mercurial",
-      "color": "Verd/anar"
+      "colors": [165]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF7247",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Chot /goleto",
-      "color": "Blanco "
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF7246",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Choteras",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BB9404",
-      "brand": "Adidad",
+      "brand": 13,
       "name": "Choteras",
-      "color": "Blco log/verdel"
+      "colors": [166]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "F99936",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Chot Nemesis",
-      "color": "Fuccia"
+      "colors": [167]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "917772-816",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Mercury",
-      "color": "Rojo naranja"
+      "colors": [168]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AJ3112-6500",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Chot Mercuri",
-      "color": "Rojo plomo"
+      "colors": [169]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AH7293-107",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Chot Hipervenum",
-      "color": "Blanco "
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EP1950",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Predator",
-      "color": "Negro/rojo"
+      "colors": [120]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CM8636",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Messi",
-      "color": "Rojo/azul"
+      "colors": [170]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "E40602",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Nemeziz Messi",
-      "color": "Colores"
+      "colors": [171]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DB2338",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Chot Predator",
-      "color": "Negro/log blco"
+      "colors": [21]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EG8214",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Xghosted",
-      "color": "Blco/log dor"
+      "colors": [172]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EE4483",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Goleto",
-      "color": "Negro/log blco"
+      "colors": [21]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AT7980-060",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Super Fly7clu",
-      "color": "Negro/log negro/ana"
+      "colors": [173]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EG7235",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Nemezis",
-      "color": "Blco/ray azul"
+      "colors": [174]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CZ5631-102",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Reposto",
-      "color": "Blco/negro"
+      "colors": [8]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CZ5631-015",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Reposto",
-      "color": "Beis vino"
+      "colors": [175]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CZ5631-012",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Reposto",
-      "color": "Negro/blco"
+      "colors": [29]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU3507-405",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Renew 2",
-      "color": "Azul elec.plom"
+      "colors": [176]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU3504-007",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Renew 2",
-      "color": "Negr/nrja/azul"
+      "colors": [177]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU3507-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Renew 2",
-      "color": "Negro/verde"
+      "colors": [178]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU3504-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Renew 2",
-      "color": "Negro/rojo"
+      "colors": [120]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "HO4519",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Runfalcony",
-      "color": "Gris"
+      "colors": [179]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FZ0961",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Run Gos",
-      "color": "Negro/blco"
+      "colors": [29]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FZ0963",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Run Gos",
-      "color": "Beis/blco/roj"
+      "colors": [180]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "HO4590",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Fluid Flow",
-      "color": "Plomo"
+      "colors": [18]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "306877-01",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Bmw-xray",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "306877-02",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Bmw-xray",
-      "color": "Blco"
+      "colors": [11]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FW5837",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Chot X Ghosted",
-      "color": "Blco/ dise\u00f1o"
+      "colors": [181]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AT8145906",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jr Vapor 13a6",
-      "color": "Plomo/rojo"
+      "colors": [182]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU3505-005",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Ronew",
-      "color": "Negro/blanco"
+      "colors": [30]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FV5216",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Hiper Hiker",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CZ7417",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Run Falcony",
-      "color": "Plomo plnta ros"
+      "colors": [183]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CZ7418",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Run Falcony",
-      "color": "Negro plt roj"
+      "colors": [184]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BQ3207-104",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Revolution",
-      "color": "Blco"
+      "colors": [11]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BQ3207-605",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Revolution",
-      "color": "Blco /palo rosa"
+      "colors": [185]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FV0864",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Chot",
-      "color": "Artel"
+      "colors": [186]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "19372310",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Space Runner",
-      "color": "Plomo"
+      "colors": [18]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "19372307",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Space Runner",
-      "color": "Negro/plomo"
+      "colors": [90]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "106403-02",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Farurez Chot",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "106368-02",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Ultra 4.2 Chot",
-      "color": "Verde/negro"
+      "colors": [187]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA1349-600",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Renewim Seasom",
-      "color": "Pali rosa"
+      "colors": [113]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA1349-100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Renewim Seasom",
-      "color": "Blco plt nar"
+      "colors": [188]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "374896-03",
-      "brand": "Puma",
+      "brand": 3,
       "name": "R78 Futr Decom",
-      "color": "Azul marino"
+      "colors": [40]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "373029-03",
-      "brand": "Puma",
+      "brand": 3,
       "name": "C-skate",
-      "color": "Negro/blco plta crep"
+      "colors": [189]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "370548-14",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Carina Slim",
-      "color": "Blco/plomo"
+      "colors": [190]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "831949303",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Mercurial",
-      "color": "Verde/negro"
+      "colors": [187]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CM8556",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Predator",
-      "color": "Azul/rojo"
+      "colors": [191]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU3505-502",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Renew Run",
-      "color": "Azul/fuccia"
+      "colors": [192]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU3505-105",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Renew Run",
-      "color": "Beis/asp nara"
+      "colors": [193]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CJ1682-101",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Weralldai",
-      "color": "Blanco/asp negro"
+      "colors": [194]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CZ4178-015",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Zuum Pegasu",
-      "color": "Negro/blco asp plom"
+      "colors": [195]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CD6888-002",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Renet Wsion",
-      "color": "Negro/lila asp plom"
+      "colors": [196]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA1105-003",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Quest",
-      "color": "Plom/verdr"
+      "colors": [197]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "HO4620",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Duramo Sl",
-      "color": "Azul marino"
+      "colors": [40]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FY9256",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Soult Stride",
-      "color": "Negro gris"
+      "colors": [198]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "HO2011",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Courtsmash",
-      "color": "Blco/azul"
+      "colors": [199]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "852487-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Mercurial Chot",
-      "color": "Plom na"
+      "colors": [200]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF8220",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Predator Cho",
-      "color": "Verde militar"
+      "colors": [201]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "G25801",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Predator Cho",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU3517-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Run Swift",
-      "color": "Negro/azul"
+      "colors": [202]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AT8120-414",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Chu Mercurial",
-      "color": "Celeste blco"
+      "colors": [203]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AJ3111-600",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Chus Mercurial",
-      "color": "Rojo plom/neg"
+      "colors": [204]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "852489-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Chus Mercurial",
-      "color": "Plom naranj"
+      "colors": [205]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GZ-8078",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Run Falcony",
-      "color": "Plom"
+      "colors": [206]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU3419-006",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Zuum Winflow",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW3419-100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Zuum Winflow",
-      "color": "Blco/ros"
+      "colors": [207]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA1106-006",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Questar 4",
-      "color": "Negro/blco"
+      "colors": [29]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA1106-101",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Questar 5",
-      "color": "Blco/plt verde"
+      "colors": [208]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BQ3207-002",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Revolution",
-      "color": "Negro/blco"
+      "colors": [29]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BA1105-400",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Questar 4",
-      "color": "Azul marin asp cele"
+      "colors": [209]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CD6864-010",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max 90",
-      "color": "Negro/blco"
+      "colors": [29]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW4554-100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max Sc",
-      "color": "Blco/hasp plom"
+      "colors": [210]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW1626-600",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max Bolt",
-      "color": "Blanc rosad"
+      "colors": [211]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF0103-0",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Grand Court",
-      "color": "Blco lin negro"
+      "colors": [212]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EG2000-0",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Advantage",
-      "color": "Blco c/dis"
+      "colors": [213]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FX4186",
-      "brand": "Adidas",
-      "name": "Hiper Terrex Ca\u00f1a",
-      "color": "Negro"
+      "brand": 1,
+      "name": "Hiper Terrex Caña",
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FY9494",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Runfalcony 2.0",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GV9938",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Eq21 Irun",
-      "color": "Azul mar/mor"
+      "colors": [214]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CQ9380-400",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Lebron Witnes",
-      "color": "Azul blanco"
+      "colors": [215]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "403770",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "N/nvlm",
-      "color": "Azul verd"
+      "colors": [216]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "302470",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "N/nvy",
-      "color": "Azul verd fucc"
+      "colors": [217]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "401521",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "N/bklm",
-      "color": "Let"
+      "colors": [218]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "302434",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "L/wmlt",
-      "color": "Bllco colres"
+      "colors": [219]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "302430",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "L/bkmt",
-      "color": "Colores "
+      "colors": [171]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CJ8058-014",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max A",
-      "color": "Negro/plomo"
+      "colors": [90]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA1352-002",
-      "brand": "Nike",
+      "brand": 2,
       "name": "City Rep",
-      "color": "Negro/blco"
+      "colors": [29]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CK9267-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Zuum Wmns",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DJ1196-002",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Defy All Day",
-      "color": "Negro blco"
+      "colors": [158]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DJ1196-100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Defy All Day",
-      "color": "Blco/azul"
+      "colors": [199]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "32703-",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Nvy Lace Mechand Nylon",
-      "color": "Azul/blco"
+      "colors": [220]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "12118",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Wbk",
-      "color": "Blanco has negro"
+      "colors": [221]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "23744",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Bbk City Pro",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "15116",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Mve Gorunmojo Ensure",
-      "color": "Coral rosa"
+      "colors": [222]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "13101",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Nvpk Ultraflex Happy Days",
-      "color": "Azul haspeado"
+      "colors": [223]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "13062",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Bkhp Flex Apare 3.0",
-      "color": "Negro haspe ros"
+      "colors": [224]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "13024",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Bkw Meridiam Savy",
-      "color": "Negro haspeados"
+      "colors": [225]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "13100",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Ros Ultra Flex Wind Soong",
-      "color": "Rosadp has"
+      "colors": [226]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "13292",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Lghp Air Ultra Flex",
-      "color": "Plomo ros"
+      "colors": [227]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CJ0302-501",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Wimns Zuum Winflox 7",
-      "color": "Blco rosa"
+      "colors": [102]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW3421-500",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Wmns Winflo",
-      "color": "Lila dor"
+      "colors": [228]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW3421-005",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Wmns Winflo 8",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA1106-102",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Wmns Quest 5",
-      "color": "Blco/ naranj"
+      "colors": [229]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU9452-005",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Infinity",
-      "color": "Negro verde"
+      "colors": [144]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DH1316-101",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air 90",
-      "color": "Blanca"
+      "colors": [82]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BC0973",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Eastral",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BB9808",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Neo",
-      "color": "Negro/ blco fucc"
+      "colors": [230]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AR3169",
-      "brand": "Reeboock",
+      "brand": 14,
       "name": "Exofit Ar",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "059503",
-      "brand": "Reeboock",
+      "brand": 14,
       "name": "Workourt Plus",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CQ9233-101",
-      "brand": "Jordan",
+      "brand": 15,
       "name": "Air Cadence",
-      "color": "Colores "
+      "colors": [171]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW7356-002",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Zoom Pegazus",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DH2728-091",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Super Rap",
-      "color": "Crema"
+      "colors": [123]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CK2612-002",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air 2090",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CZ3867-100",
-      "brand": "Nike ",
+      "brand": 2,
       "name": "Air 2090",
-      "color": "Blanco nrj/ver"
+      "colors": [231]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA9261-400",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air 2090",
-      "color": "Negro/blco"
+      "colors": [29]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DJ1998-100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Venture Runner Urb",
-      "color": "Blanco/plt crep"
+      "colors": [232]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU9452-002",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Infinity",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU9452-007",
-      "brand": "Nik",
+      "brand": 16,
       "name": "Infinity",
-      "color": "Plomo"
+      "colors": [18]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CT1833-100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max Reac 270",
-      "color": "Tri color"
+      "colors": [233]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU9333-100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max Reac 270",
-      "color": "Crema"
+      "colors": [123]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW3400-007",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Kd Treys Ix",
-      "color": "Azul/neg roj"
+      "colors": [234]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CZ0604-010",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Super Rap",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CQ4021-102",
-      "brand": "Jordan",
+      "brand": 15,
       "name": "Jumpan",
-      "color": "Blco rojo"
+      "colors": [235]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GZ5300",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Advantage",
-      "color": "Blanco/verd"
+      "colors": [236]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA7995-101",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Woofle",
-      "color": "Crema"
+      "colors": [123]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA7995-401",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Woofle",
-      "color": "Azul"
+      "colors": [25]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW5992-001",
-      "brand": "Jordan",
+      "brand": 15,
       "name": "Ma2",
-      "color": "Negro/palo ro"
+      "colors": [237]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW1626-401",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max Runner",
-      "color": "Azul"
+      "colors": [25]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA4075-101",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Bloger Low",
-      "color": "Blco "
+      "colors": [11]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "G27554",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Rapida Run Star Ward",
-      "color": "Blco "
+      "colors": [11]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FV5788",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Uture Star Ward",
-      "color": "Blco azu{"
+      "colors": [238]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FW3960",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Swith",
-      "color": "Negro fuccia"
+      "colors": [239]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA1105-010",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Questar 4",
-      "color": "Negro/dorado"
+      "colors": [240]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CD4165-106",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max Exel",
-      "color": "Blco roj az"
+      "colors": [241]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU3504-005",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Renew",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU3507-003",
-      "brand": "Nik",
+      "brand": 16,
       "name": "Renew Ride",
-      "color": "Negro/roj"
+      "colors": [242]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU3507405",
-      "brand": "Nik",
+      "brand": 16,
       "name": "Renew Ride",
-      "color": "Acero "
+      "colors": [243]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "19263203",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Radiate Xt Patter",
-      "color": "Negro7dord"
+      "colors": [244]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "37112805",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Amzarum Lite",
-      "color": "Azul blanco"
+      "colors": [215]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "37112505",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Cilia - Mode",
-      "color": "Negro/rosa/blco"
+      "colors": [245]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "36815301",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Smash",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "37310842",
-      "brand": "Puma",
+      "brand": 3,
       "name": "X Ray Square",
-      "color": "Gris plomo"
+      "colors": [246]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "37311738",
-      "brand": "Puma",
+      "brand": 3,
       "name": "R78",
-      "color": "Negro amarillo"
+      "colors": [247]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "37628806",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Incemeonte",
-      "color": "Melon"
+      "colors": [248]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "38043515",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Electon",
-      "color": "Plomo"
+      "colors": [18]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "38390601",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Carina Lagomania",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "38464705",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Cassia",
-      "color": "Tricolor"
+      "colors": [249]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BC0524",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Ax3",
-      "color": "Negro cont"
+      "colors": [250]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FZ3255",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Ax4",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FZ3252",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Trrex Ax4",
-      "color": "Beis"
+      "colors": [251]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF3365",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Ax3 Gorotex",
-      "color": "Negro ca\u00f1a"
+      "colors": [252]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FX7339",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Swift",
-      "color": "Negro plt crem"
+      "colors": [253]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FZ3283",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Ax4",
-      "color": "Beis"
+      "colors": [251]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GX5757",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Grand Courd Beyond",
-      "color": "Blco "
+      "colors": [11]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GW5488",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Streetcheck",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GW5489",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Streetcheck",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GW5493",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Streetcheck",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "C77124",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Super Star",
-      "color": "Blanco "
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "315122111",
-      "brand": "Nike",
+      "brand": 2,
       "name": "For One Xxx",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DB2477300",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Craten Impact",
-      "color": "Verde osc recicl"
+      "colors": [254]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CT8527100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jordan",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "487724607",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jordan Retro",
-      "color": "Blco plta azul"
+      "colors": [255]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AQ3835160",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jordan Retro",
-      "color": "Blanco roj neg"
+      "colors": [256]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GW0264",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Bud Bunny",
-      "color": "Marron"
+      "colors": [257]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FZ3900",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Boss Zx 2k",
-      "color": "Blco ros az plt"
+      "colors": [258]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DC3729001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Revolution",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA8301100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Fort",
-      "color": "Cambia color"
+      "colors": [259]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "H02753",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Ultra Boss",
-      "color": "Coral"
+      "colors": [260]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CK2531900",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Air Max 270",
-      "color": "Camara de aire"
+      "colors": [261]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GY4189",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Boss Zx 2k",
-      "color": "Blco plta amar"
+      "colors": [262]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DD1095003",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Revolution",
-      "color": "Negro blco"
+      "colors": [158]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DD1095608",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Revolution",
-      "color": "Rosa jaspeado negro"
+      "colors": [263]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA2777008",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Star Runner",
-      "color": "Plomo jasp roj"
+      "colors": [264]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "F36483",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Grand Courd",
-      "color": "Blco"
+      "colors": [11]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EE7874",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Grand Courd Base",
-      "color": "Blco plom"
+      "colors": [265]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DJ6054100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Waffle Trainner",
-      "color": "Blco verde"
+      "colors": [266]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DJ9568001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Presto",
-      "color": "Negro naranj"
+      "colors": [267]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BB1930",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Ax2r",
-      "color": "Negro plomo"
+      "colors": [268]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BB1935",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex R",
-      "color": "Negro plomo"
+      "colors": [268]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EF0212",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Advantage",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GZ3318",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Grand Court",
-      "color": "Mickey blco"
+      "colors": [269]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GX5762",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Grand Courd Beyond",
-      "color": "Blco l negro"
+      "colors": [270]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GX5755",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Grand Courd Beyond",
-      "color": "Negro l blco"
+      "colors": [271]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DC3728006",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Revolution",
-      "color": "Plom turq"
+      "colors": [272]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA1106105",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Quest 4",
-      "color": "Blco verde"
+      "colors": [266]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW7136-600",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Reac",
-      "color": "Fucsia"
+      "colors": [50]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW7121-005",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Reac",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CD4373-105",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Reac",
-      "color": "Plomo"
+      "colors": [18]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GZ7741",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Boost",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GZ3494",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Boost",
-      "color": "Neg/blc/turq"
+      "colors": [273]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GZ9087",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Boost",
-      "color": "Negro/naranj"
+      "colors": [274]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "H00471",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Onwe Hare",
-      "color": "Negro roj"
+      "colors": [275]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "HO2751",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Retro Boos",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "C10919101",
-      "brand": "Nike",
+      "brand": 2,
       "name": "For One",
-      "color": "Tricolor"
+      "colors": [249]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BQ6472500",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jordan",
-      "color": "Ros/blco"
+      "colors": [276]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CY8836-017",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max",
-      "color": "Negro dorado"
+      "colors": [277]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CY8836001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max",
-      "color": "Negro plomo"
+      "colors": [268]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GZ3045",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Jogger",
-      "color": "Crema blanco"
+      "colors": [278]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GX5761",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Grand Court",
-      "color": "Beyond blco"
+      "colors": [279]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GZ5299",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Advantage",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "HOO517",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Eq21",
-      "color": "Azul marino"
+      "colors": [40]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GX8252",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Run Falcony",
-      "color": "Plomo"
+      "colors": [18]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GX3250",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Run Falcony",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "194849",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Dreawer Mid",
-      "color": "Amarillo"
+      "colors": [280]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "194849-03",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Dreawer Mid",
-      "color": "Rojo"
+      "colors": [131]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "36521506",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Smash",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "36521504",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Smash",
-      "color": "N egro/blco"
+      "colors": [281]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "38074701",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Rebound Joy Low",
-      "color": "Blco negr"
+      "colors": [282]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "38384902",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Rose Row Meta Mies",
-      "color": "Negro dor"
+      "colors": [283]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "19526501",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Platinum Shimmer",
-      "color": "Negro blc ros"
+      "colors": [284]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU3507-009",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Renew Ride",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU3504-011",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Renew Run 2",
-      "color": "Gris"
+      "colors": [179]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DC8890-200",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Waffle",
-      "color": "Verde"
+      "colors": [97]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DJ9776-200",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Waffle",
-      "color": "Palo rosa trans"
+      "colors": [285]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CN2386-600",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Crater Impact",
-      "color": "Rosado reciclada"
+      "colors": [286]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA9492-004",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Zoom Sunperrep",
-      "color": "Plom hasp"
+      "colors": [287]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GZ9215",
-      "brand": "Adidas",
-      "name": "Hiper Hiker Ca\u00f1a",
-      "color": "Verde pacay amar"
+      "brand": 1,
+      "name": "Hiper Hiker Caña",
+      "colors": [288]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GZ9214",
-      "brand": "Adidas",
-      "name": "Hiper Hiker Ca\u00f1a",
-      "color": "Rosado"
+      "brand": 1,
+      "name": "Hiper Hiker Caña",
+      "colors": [14]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FZ1837",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Breaknet",
-      "color": "Blco roj az"
+      "colors": [241]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AR3168",
-      "brand": "Reebook",
+      "brand": 17,
       "name": "Exofit",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "IY3501",
-      "brand": "Reebook",
+      "brand": 17,
       "name": "Prince",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA1923500",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max 2021",
-      "color": "Lila"
+      "colors": [99]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GY8283",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Zx Bosh",
-      "color": "Plt amarillo"
+      "colors": [289]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "WI01004",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Super Star",
-      "color": "Blco"
+      "colors": [11]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA1192-004",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Choteras",
-      "color": "Blanco narn ver"
+      "colors": [290]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA1192110",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Choteras",
-      "color": "Azul"
+      "colors": [25]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW3403003",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Precision",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DC7701001",
-      "brand": "Jordan",
+      "brand": 15,
       "name": "Kiry Low Take",
-      "color": "Negro fuccia "
+      "colors": [239]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DN3205-061",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jordan",
-      "color": "Blco negro gamuz"
+      "colors": [291]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DN3205106",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jordan",
-      "color": "Crema gamuz"
+      "colors": [292]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CZ9218",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Hiper Hiker",
-      "color": "Verde pacay amar"
+      "colors": [288]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "317389001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Saint German",
-      "color": "Blaco azul roj"
+      "colors": [293]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "819523064",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max Premium",
-      "color": "Negro naranj az"
+      "colors": [294]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DM9094100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max",
-      "color": "Cocomut milk"
+      "colors": [295]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "881981100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max Bw Platium",
-      "color": "Gris  "
+      "colors": [179]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DD1876800",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max Premium",
-      "color": "Gris ca\u00f1a"
+      "colors": [296]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DD1876-900",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max Retro",
-      "color": "Negro ca\u00f1a"
+      "colors": [252]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DJ4481100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jordan",
-      "color": "Blco rojo"
+      "colors": [235]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AJ7311200",
-      "brand": "Nike",
-      "name": "Air Force Ca\u00f1a",
-      "color": "Rosado crema"
+      "brand": 2,
+      "name": "Air Force Caña",
+      "colors": [297]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DD1875-668",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Spedy",
-      "color": "Crema"
+      "colors": [123]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DD1875668",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Spedy",
-      "color": "Palo rosa melon"
+      "colors": [298]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CV9388107",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jordan",
-      "color": "Coral verde"
+      "colors": [299]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DH7138506",
-      "brand": "Jordan ",
+      "brand": 15,
       "name": "Jordan",
-      "color": "Lila"
+      "colors": [99]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "37575707",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Racer Future",
-      "color": "Negro plta rosa"
+      "colors": [300]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "38075002",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Skye Wedge",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "38075001",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Skye Wedge",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "37032521",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Carina",
-      "color": "Blanca"
+      "colors": [82]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GY8311",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex A X2s",
-      "color": "Verde camello"
+      "colors": [301]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "Q46587",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Terrex Ax25",
-      "color": "Negro "
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "FX8724",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Breaknet",
-      "color": "Blco li neg"
+      "colors": [302]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "166799C",
-      "brand": "Conver",
+      "brand": 18,
       "name": "All Star",
-      "color": "Blanco ca\u00f1a plat"
+      "colors": [303]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "M20605",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Stan Smit",
-      "color": "Blco verde"
+      "colors": [266]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DC3729003",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Revolution",
-      "color": "Negro "
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DH9523600",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Wafle",
-      "color": "Pali rosa"
+      "colors": [113]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DJ16012-001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Kyrie",
-      "color": "Negro roj bl"
+      "colors": [304]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW3403006",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Precision",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU4150102",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Lagacy Court",
-      "color": "Blco dor"
+      "colors": [305]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CW3406005",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Renew",
-      "color": "Plomo basket"
+      "colors": [306]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU3528600",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Run",
-      "color": "Guinda"
+      "colors": [124]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU3584456",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Mctr",
-      "color": "Azul fucc"
+      "colors": [307]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DJ2901484",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jr Vapor 14cl",
-      "color": "Turqueza"
+      "colors": [44]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "302016",
-      "brand": "Sketcher",
+      "brand": 6,
       "name": "Lbkaq",
-      "color": "Negro colores"
+      "colors": [308]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BA7897",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Escolar",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "VF315122111",
-      "brand": "Nike xxx",
+      "brand": 19,
       "name": "Air Force",
-      "color": "Plomo"
+      "colors": [18]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "PW00100",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Bonce",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GX4221",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Racer Rebold",
-      "color": "Azul"
+      "colors": [25]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GV9553",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Runfalcony",
-      "color": "Plomo rojo"
+      "colors": [309]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "1734",
-      "brand": "Reebook",
+      "brand": 17,
       "name": "Prince",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CK2669001",
-      "brand": "Nike",
-      "name": "Renew Ca\u00f1a Debate",
-      "color": "Negro blco"
+      "brand": 2,
+      "name": "Renew Caña Debate",
+      "colors": [158]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CI0905",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Vista",
-      "color": "Blc ver lil"
+      "colors": [310]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CK2090101",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Treidy",
-      "color": "Blco negro"
+      "colors": [311]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "38073812",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Gramation",
-      "color": "Negro roj"
+      "colors": [275]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DA2400100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Max",
-      "color": "Blco azl"
+      "colors": [312]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CU9220700",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jah",
-      "color": "Amarillo"
+      "colors": [280]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CK2947100",
-      "brand": "Nik",
+      "brand": 16,
       "name": "Air Max 2x",
-      "color": "Blco negro"
+      "colors": [311]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "PJ1998100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Venture Rum",
-      "color": "Crema"
+      "colors": [123]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CK6618100",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jordan",
-      "color": "React levation "
+      "colors": [313]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CN8533001",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air Force One",
-      "color": "Negro plt blco"
+      "colors": [314]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CJ0780601",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jorda",
-      "color": "Fuccia"
+      "colors": [167]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CK6618-101",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jordan",
-      "color": "Colores payayo"
+      "colors": [315]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "4501312434",
-      "brand": "Under ",
+      "brand": 7,
       "name": "Air Mour Chim",
-      "color": "Verde"
+      "colors": [97]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "10449308",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Chimp",
-      "color": "Negro azul"
+      "colors": [316]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "10397402",
-      "brand": "Puma",
+      "brand": 3,
       "name": "Eurower Chot",
-      "color": "Negro fucc"
+      "colors": [26]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "85938UFWY",
-      "brand": "Umbro",
+      "brand": 20,
       "name": "Chotera",
-      "color": "Celeste negro"
+      "colors": [317]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "85946UGXU",
-      "brand": "Umbro",
+      "brand": 20,
       "name": "Chotera",
-      "color": "Negro verde"
+      "colors": [144]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CP9174",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Nemezis Chim",
-      "color": "Plomo/rosa"
+      "colors": [318]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AJ14146600",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Chimpun",
-      "color": "Rojo plomo"
+      "colors": [169]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AH7342081",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Chotera",
-      "color": "Negro naranja"
+      "colors": [319]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CM8533",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Predator",
-      "color": "Azulino"
+      "colors": [320]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AJ3570600",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Mercurial Chot",
-      "color": "Rojo naranja"
+      "colors": [168]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CK6611101",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jordan",
-      "color": "Blco lila"
+      "colors": [321]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "BK3449102",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jordan",
-      "color": "Blco"
+      "colors": [11]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CD3003006",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jordan",
-      "color": "Negro plom roj"
+      "colors": [322]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AO6218101",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Jordan",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AU2605401",
-      "brand": "Nike",
-      "name": "Ca\u00f1a",
-      "color": "Azul"
+      "brand": 2,
+      "name": "Caña",
+      "colors": [25]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AO2445001",
-      "brand": "Nike",
-      "name": "Air Max Ca\u00f1a",
-      "color": "Negro cebra"
+      "brand": 2,
+      "name": "Air Max Caña",
+      "colors": [323]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "831954404",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Nercurial Chote",
-      "color": "Celeste azul"
+      "colors": [324]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "807471101",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Cortex",
-      "color": "Blanco"
+      "colors": [7]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CD6888002",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Reac Vision",
-      "color": "Negro"
+      "colors": [1]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "EE6924",
-      "brand": "Adidas ",
+      "brand": 1,
       "name": "Duramo",
-      "color": "Plomo az"
+      "colors": [325]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CZ3668005",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Legen",
-      "color": "Crema palo ros"
+      "colors": [326]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "DJ2879484",
-      "brand": "Nike xxx",
+      "brand": 19,
       "name": "Choteras Merc",
-      "color": "Celeste"
+      "colors": [94]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "341192117",
-      "brand": "Nike xxx",
+      "brand": 19,
       "name": "Air Max Force",
-      "color": "Xxx"
+      "colors": [327]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GY9725",
-      "brand": "Rreboock",
+      "brand": 21,
       "name": "Turbo",
-      "color": "Verde"
+      "colors": [97]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AH6789100",
-      "brand": "Nike xxx",
+      "brand": 19,
       "name": "Air",
-      "color": "Blco"
+      "colors": [11]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "AH8050007",
-      "brand": "Nike xxx",
+      "brand": 19,
       "name": "Air",
-      "color": "Negro blco"
+      "colors": [158]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CZ5358200",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Air",
-      "color": "Lila"
+      "colors": [99]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GW9057",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Tensure",
-      "color": "Rosado"
+      "colors": [14]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GW6121",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Runfalcony",
-      "color": "Negro amarill"
+      "colors": [328]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CQ9356402",
-      "brand": "Nike ",
+      "brand": 2,
       "name": "Legend Essential",
-      "color": "Zulino"
+      "colors": [329]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CQ9356007",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Legeng Essential 2",
-      "color": "Plomo narj"
+      "colors": [330]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CZ3959020",
-      "brand": "Nike",
+      "brand": 2,
       "name": "Dowshifter",
-      "color": "Negro verde"
+      "colors": [144]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GY7118",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Grand Court Alpha",
-      "color": "Crema"
+      "colors": [123]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "GW6254",
-      "brand": "Adidas",
+      "brand": 1,
       "name": "Speed Motion",
-      "color": "Blco cols"
+      "colors": [331]
     }
   },
   {
     "model": "management.shoemodel",
     "fields": {
       "code": "CT4080600",
-      "brand": "Kyria",
+      "brand": 22,
       "name": "Basket",
-      "color": "Colres plta celeste"
+      "colors": [332]
     }
   }
 ]

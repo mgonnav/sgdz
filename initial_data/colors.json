@@ -1,0 +1,2326 @@
+[
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 1,
+      "name": "Negro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 2,
+      "name": "Celeste pta ama"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 3,
+      "name": "Azul/verde"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 4,
+      "name": "Verd pacy-celes"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 5,
+      "name": "Celestelog ver"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 6,
+      "name": "Azul/celeste"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 7,
+      "name": "Blanco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 8,
+      "name": "Blco/negro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 9,
+      "name": "Blco/verde"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 10,
+      "name": "Blco/rosa"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 11,
+      "name": "Blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 12,
+      "name": "Blco/rosado"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 13,
+      "name": "Negro/plta blca"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 14,
+      "name": "Rosado"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 15,
+      "name": "Azul lin blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 16,
+      "name": "Plomo osc"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 17,
+      "name": "Negro/ brillo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 18,
+      "name": "Plomo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 19,
+      "name": "Negr/rosa"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 20,
+      "name": "Uva/plom/ros"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 21,
+      "name": "Negro/log blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 22,
+      "name": "Azul los blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 23,
+      "name": "Azul acero"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 24,
+      "name": "Azul log blanco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 25,
+      "name": "Azul"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 26,
+      "name": "Negro fucc"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 27,
+      "name": "Blanca/neg"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 28,
+      "name": "Blco log negro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 29,
+      "name": "Negro/blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 30,
+      "name": "Negro/blanco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 31,
+      "name": "Negro/pega"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 32,
+      "name": "Negro/ escarch"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 33,
+      "name": "Blco/fuccia"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 34,
+      "name": "Blco / rosado"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 35,
+      "name": "Blanco verde"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 36,
+      "name": "Negro/color"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 37,
+      "name": "Negro/fdo/rosa"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 38,
+      "name": "Granate"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 39,
+      "name": "Negro/narj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 40,
+      "name": "Azul marino"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 41,
+      "name": "Rojo negro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 42,
+      "name": "Blco/roj/negr"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 43,
+      "name": "Rojo/pnt bco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 44,
+      "name": "Turqueza"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 45,
+      "name": "Morado"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 46,
+      "name": "Piel"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 47,
+      "name": "Mord/salmo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 48,
+      "name": "Azul/verd fluor"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 49,
+      "name": "Azul/plta rojo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 50,
+      "name": "Fucsia"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 51,
+      "name": "Plomo/log ros"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 52,
+      "name": "Plomo/verde"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 53,
+      "name": "Rosa/blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 54,
+      "name": "Plomo verd fosfl"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 55,
+      "name": "Negro/alum"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 56,
+      "name": "Celeste agua"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 57,
+      "name": "Negro plt caramelo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 58,
+      "name": "Negro/plt car"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 59,
+      "name": "Blco/plom/salm"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 60,
+      "name": "Rosad/blc plo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 61,
+      "name": "Bco/negr pntos"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 62,
+      "name": "Plom/cele"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 63,
+      "name": "Azul/marino"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 64,
+      "name": "Blco/dorad"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 65,
+      "name": "Mor/lil/fuc"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 66,
+      "name": "Aluminio/coral"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 67,
+      "name": "Plomo/negro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 68,
+      "name": "Blanco/marron"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 69,
+      "name": "Azul/log blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 70,
+      "name": "Melon/log blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 71,
+      "name": "Blanco /verde ros"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 72,
+      "name": "Gris log blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 73,
+      "name": "Plom/azl log ros"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 74,
+      "name": "Azul log blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 75,
+      "name": "Rosada"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 76,
+      "name": "Azul/coral"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 77,
+      "name": "Palo rosa"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 78,
+      "name": "Negro log ros"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 79,
+      "name": "Plomo/log neg"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 80,
+      "name": "Negro/ana atrz"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 81,
+      "name": "Violeta/ chuso"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 82,
+      "name": "Blanca"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 83,
+      "name": "Blco/celeste"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 84,
+      "name": "Plomo claro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 85,
+      "name": "Blco celeste"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 86,
+      "name": "Negro militar"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 87,
+      "name": "Azul/negro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 88,
+      "name": "Naranja"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 89,
+      "name": "Negro/ rojo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 90,
+      "name": "Negro/plomo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 91,
+      "name": "Negro/chispead"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 92,
+      "name": "Uva"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 93,
+      "name": "Negro/log/blc"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 94,
+      "name": "Celeste"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 95,
+      "name": "Negro log fuccia"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 96,
+      "name": "Negro/plta blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 97,
+      "name": "Verde"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 98,
+      "name": "Negro/log blc"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 99,
+      "name": "Lila"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 100,
+      "name": "Morad/plom"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 101,
+      "name": "Blco/log plm/ros"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 102,
+      "name": "Blco rosa"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 103,
+      "name": "Gris az"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 104,
+      "name": "Plomo acero"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 105,
+      "name": "Plomo talon amarillo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 106,
+      "name": "Rojo/negro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 107,
+      "name": "Blco turqueza"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 108,
+      "name": "Negro/naranja/lila"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 109,
+      "name": "Negro log blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 110,
+      "name": "Negro log plt"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 111,
+      "name": "Blco/mor/log n"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 112,
+      "name": "Blco-ver"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 113,
+      "name": "Pali rosa"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 114,
+      "name": "Purpura escarchado"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 115,
+      "name": "Plomo/escarch"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 116,
+      "name": "Rosado blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 117,
+      "name": "Fuccia/rosado"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 118,
+      "name": "Negro/verd"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 119,
+      "name": "Blco-urb"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 120,
+      "name": "Negro/rojo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 121,
+      "name": "Azul blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 122,
+      "name": "Plomo/blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 123,
+      "name": "Crema"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 124,
+      "name": "Guinda"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 125,
+      "name": "Negro rojo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 126,
+      "name": "Crema/verde"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 127,
+      "name": "Plom/blco/tur"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 128,
+      "name": "Plomo/log plo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 129,
+      "name": "Negro/log ros"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 130,
+      "name": "Negro/log n"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 131,
+      "name": "Rojo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 132,
+      "name": "Negr/plom/ros"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 133,
+      "name": "Blsnco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 134,
+      "name": "Blanco/azul"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 135,
+      "name": "Azul/lateado/plomo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 136,
+      "name": "Rosada/luces"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 137,
+      "name": "Azul fond rosa"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 138,
+      "name": "Plateada lin/cel"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 139,
+      "name": "Negro milit"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 140,
+      "name": "Negro/fnd dor"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 141,
+      "name": "Dorado/escarch"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 142,
+      "name": "Azul osc"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 143,
+      "name": "Azul/naranj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 144,
+      "name": "Negro verde"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 145,
+      "name": "Color"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 146,
+      "name": "Plom, plta anarj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 147,
+      "name": "Negro-rojo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 148,
+      "name": "Plomo amarillo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 149,
+      "name": "Plo/cel/plt ros"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 150,
+      "name": "Az/ver/neg"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 151,
+      "name": "Blco log rosado"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 152,
+      "name": "Azul verde"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 153,
+      "name": "Azul/log plat"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 154,
+      "name": "Blco manchas"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 155,
+      "name": "Negro p/naran"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 156,
+      "name": "Negro/log roj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 157,
+      "name": "Blanco azul"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 158,
+      "name": "Negro blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 159,
+      "name": "Verde limon"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 160,
+      "name": "Blco logo  oro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 161,
+      "name": "Negro conqu"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 162,
+      "name": "Plomnrja"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 163,
+      "name": "Azul plat"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 164,
+      "name": "Plom blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 165,
+      "name": "Verd/anar"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 166,
+      "name": "Blco log/verdel"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 167,
+      "name": "Fuccia"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 168,
+      "name": "Rojo naranja"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 169,
+      "name": "Rojo plomo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 170,
+      "name": "Rojo/azul"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 171,
+      "name": "Colores"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 172,
+      "name": "Blco/log dor"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 173,
+      "name": "Negro/log negro/ana"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 174,
+      "name": "Blco/ray azul"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 175,
+      "name": "Beis vino"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 176,
+      "name": "Azul elec.plom"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 177,
+      "name": "Negr/nrja/azul"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 178,
+      "name": "Negro/verde"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 179,
+      "name": "Gris"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 180,
+      "name": "Beis/blco/roj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 181,
+      "name": "Blco/ diseño"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 182,
+      "name": "Plomo/rojo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 183,
+      "name": "Plomo plnta ros"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 184,
+      "name": "Negro plt roj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 185,
+      "name": "Blco /palo rosa"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 186,
+      "name": "Artel"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 187,
+      "name": "Verde/negro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 188,
+      "name": "Blco plt nar"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 189,
+      "name": "Negro/blco plta crep"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 190,
+      "name": "Blco/plomo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 191,
+      "name": "Azul/rojo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 192,
+      "name": "Azul/fuccia"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 193,
+      "name": "Beis/asp nara"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 194,
+      "name": "Blanco/asp negro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 195,
+      "name": "Negro/blco asp plom"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 196,
+      "name": "Negro/lila asp plom"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 197,
+      "name": "Plom/verdr"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 198,
+      "name": "Negro gris"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 199,
+      "name": "Blco/azul"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 200,
+      "name": "Plom na"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 201,
+      "name": "Verde militar"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 202,
+      "name": "Negro/azul"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 203,
+      "name": "Celeste blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 204,
+      "name": "Rojo plom/neg"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 205,
+      "name": "Plom naranj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 206,
+      "name": "Plom"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 207,
+      "name": "Blco/ros"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 208,
+      "name": "Blco/plt verde"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 209,
+      "name": "Azul marin asp cele"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 210,
+      "name": "Blco/hasp plom"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 211,
+      "name": "Blanc rosad"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 212,
+      "name": "Blco lin negro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 213,
+      "name": "Blco c/dis"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 214,
+      "name": "Azul mar/mor"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 215,
+      "name": "Azul blanco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 216,
+      "name": "Azul verd"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 217,
+      "name": "Azul verd fucc"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 218,
+      "name": "Let"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 219,
+      "name": "Bllco colres"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 220,
+      "name": "Azul/blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 221,
+      "name": "Blanco has negro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 222,
+      "name": "Coral rosa"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 223,
+      "name": "Azul haspeado"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 224,
+      "name": "Negro haspe ros"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 225,
+      "name": "Negro haspeados"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 226,
+      "name": "Rosadp has"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 227,
+      "name": "Plomo ros"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 228,
+      "name": "Lila dor"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 229,
+      "name": "Blco/ naranj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 230,
+      "name": "Negro/ blco fucc"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 231,
+      "name": "Blanco nrj/ver"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 232,
+      "name": "Blanco/plt crep"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 233,
+      "name": "Tri color"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 234,
+      "name": "Azul/neg roj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 235,
+      "name": "Blco rojo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 236,
+      "name": "Blanco/verd"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 237,
+      "name": "Negro/palo ro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 238,
+      "name": "Blco azu{"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 239,
+      "name": "Negro fuccia"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 240,
+      "name": "Negro/dorado"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 241,
+      "name": "Blco roj az"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 242,
+      "name": "Negro/roj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 243,
+      "name": "Acero"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 244,
+      "name": "Negro7dord"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 245,
+      "name": "Negro/rosa/blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 246,
+      "name": "Gris plomo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 247,
+      "name": "Negro amarillo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 248,
+      "name": "Melon"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 249,
+      "name": "Tricolor"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 250,
+      "name": "Negro cont"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 251,
+      "name": "Beis"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 252,
+      "name": "Negro caña"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 253,
+      "name": "Negro plt crem"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 254,
+      "name": "Verde osc recicl"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 255,
+      "name": "Blco plta azul"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 256,
+      "name": "Blanco roj neg"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 257,
+      "name": "Marron"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 258,
+      "name": "Blco ros az plt"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 259,
+      "name": "Cambia color"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 260,
+      "name": "Coral"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 261,
+      "name": "Camara de aire"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 262,
+      "name": "Blco plta amar"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 263,
+      "name": "Rosa jaspeado negro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 264,
+      "name": "Plomo jasp roj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 265,
+      "name": "Blco plom"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 266,
+      "name": "Blco verde"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 267,
+      "name": "Negro naranj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 268,
+      "name": "Negro plomo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 269,
+      "name": "Mickey blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 270,
+      "name": "Blco l negro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 271,
+      "name": "Negro l blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 272,
+      "name": "Plom turq"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 273,
+      "name": "Neg/blc/turq"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 274,
+      "name": "Negro/naranj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 275,
+      "name": "Negro roj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 276,
+      "name": "Ros/blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 277,
+      "name": "Negro dorado"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 278,
+      "name": "Crema blanco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 279,
+      "name": "Beyond blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 280,
+      "name": "Amarillo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 281,
+      "name": "N egro/blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 282,
+      "name": "Blco negr"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 283,
+      "name": "Negro dor"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 284,
+      "name": "Negro blc ros"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 285,
+      "name": "Palo rosa trans"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 286,
+      "name": "Rosado reciclada"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 287,
+      "name": "Plom hasp"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 288,
+      "name": "Verde pacay amar"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 289,
+      "name": "Plt amarillo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 290,
+      "name": "Blanco narn ver"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 291,
+      "name": "Blco negro gamuz"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 292,
+      "name": "Crema gamuz"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 293,
+      "name": "Blaco azul roj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 294,
+      "name": "Negro naranj az"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 295,
+      "name": "Cocomut milk"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 296,
+      "name": "Gris caña"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 297,
+      "name": "Rosado crema"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 298,
+      "name": "Palo rosa melon"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 299,
+      "name": "Coral verde"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 300,
+      "name": "Negro plta rosa"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 301,
+      "name": "Verde camello"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 302,
+      "name": "Blco li neg"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 303,
+      "name": "Blanco caña plat"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 304,
+      "name": "Negro roj bl"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 305,
+      "name": "Blco dor"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 306,
+      "name": "Plomo basket"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 307,
+      "name": "Azul fucc"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 308,
+      "name": "Negro colores"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 309,
+      "name": "Plomo rojo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 310,
+      "name": "Blc ver lil"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 311,
+      "name": "Blco negro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 312,
+      "name": "Blco azl"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 313,
+      "name": "React levation"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 314,
+      "name": "Negro plt blco"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 315,
+      "name": "Colores payayo"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 316,
+      "name": "Negro azul"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 317,
+      "name": "Celeste negro"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 318,
+      "name": "Plomo/rosa"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 319,
+      "name": "Negro naranja"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 320,
+      "name": "Azulino"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 321,
+      "name": "Blco lila"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 322,
+      "name": "Negro plom roj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 323,
+      "name": "Negro cebra"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 324,
+      "name": "Celeste azul"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 325,
+      "name": "Plomo az"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 326,
+      "name": "Crema palo ros"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 327,
+      "name": "Xxx"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 328,
+      "name": "Negro amarill"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 329,
+      "name": "Zulino"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 330,
+      "name": "Plomo narj"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 331,
+      "name": "Blco cols"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "id": 332,
+      "name": "Colres plta celeste"
+    }
+  }
+]

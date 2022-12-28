@@ -1,0 +1,156 @@
+[
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 1,
+      "name": "Adidas"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 2,
+      "name": "Nike"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 3,
+      "name": "Puma"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 4,
+      "name": "Reebok"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 5,
+      "name": "Reebock"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 6,
+      "name": "Sketcher"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 7,
+      "name": "Under"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 8,
+      "name": "Fila"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 9,
+      "name": "Axis"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 10,
+      "name": "Convert"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 11,
+      "name": "Marca"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 12,
+      "name": "Cp 9012"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 13,
+      "name": "Adidad"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 14,
+      "name": "Reeboock"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 15,
+      "name": "Jordan"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 16,
+      "name": "Nik"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 17,
+      "name": "Reebook"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 18,
+      "name": "Conver"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 19,
+      "name": "Nike xxx"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 20,
+      "name": "Umbro"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 21,
+      "name": "Rreboock"
+    }
+  },
+  {
+    "model": "management.brand",
+    "fields": {
+      "id": 22,
+      "name": "Kyria"
+    }
+  }
+]
