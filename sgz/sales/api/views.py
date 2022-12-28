@@ -48,7 +48,7 @@ class SaleDetailViewSet(ModelViewSet):
         sale.save()
         return Response(serializer.data, status=status.HTTP_201_CREATED)
 
-    def destroy(self, request, pk=None, *args, **kwargs):
+    def destroy(self, request, *args, pk=None, **kwargs):
         instance = self.get_object()
         sale = instance.sale
         total_amount = instance.price * instance.number_of_units
@@ -82,7 +82,7 @@ class PaymentViewSet(ModelViewSet):
         serializer.save(sale_id=sale.id)
         return Response(serializer.data, status=status.HTTP_201_CREATED)
 
-    def destroy(self, request, pk=None, *args, **kwargs):
+    def destroy(self, request, *args, pk=None, **kwargs):
         instance = self.get_object()
         sale = instance.sale
         sale.pending_payment += instance.amount

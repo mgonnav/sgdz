@@ -128,7 +128,7 @@ class ShoeModelViewSet(ModelViewSet):
             return ShoeModelCreateUpdateSerializer
         return self.serializer_class
 
-    def retrieve(self, request, code=""):
+    def retrieve(self, request, *args, code="", **kwargs):
         shoe_models = self.queryset.filter(code__icontains=code)
         serializer = self.serializer_class(shoe_models, many=True)
         return Response(serializer.data[:10])
