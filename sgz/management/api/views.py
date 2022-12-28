@@ -71,7 +71,7 @@ class ProductViewSet(ModelViewSet):
     lookup_field = "pk"
 
     def get_serializer_class(self):
-        if self.action == "create" or self.action == "update":
+        if self.action in ["create", "update"]:
             return ProductCreateUpdateSerializer
         return self.serializer_class
 
@@ -124,7 +124,7 @@ class ShoeModelViewSet(ModelViewSet):
     lookup_field = "code"
 
     def get_serializer_class(self):
-        if self.action == "create" or self.action == "update":
+        if self.action in ["create", "update"]:
             return ShoeModelCreateUpdateSerializer
         return self.serializer_class
 
