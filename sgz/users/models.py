@@ -2,10 +2,11 @@ from django.contrib.auth.models import AbstractUser
 from django.db import models
 from django.urls import reverse
 
+from sgz.utils.models import SGZModel
 from sgz.utils.validators import alphabetic_validator
 
 
-class User(AbstractUser):
+class User(SGZModel, AbstractUser):
     full_name = models.CharField(
         max_length=50, validators=[alphabetic_validator], help_text="User's full name."
     )
