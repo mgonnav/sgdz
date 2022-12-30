@@ -1,9 +1,9 @@
 from django.shortcuts import get_object_or_404
 from rest_framework import status
 from rest_framework.response import Response
-from rest_framework.viewsets import ModelViewSet
 
 from sgz.sales.models import Payment, Sale, SaleDetail
+from sgz.utils.viewsets import BaseSGZViewSet
 
 from .serializers import (
     PaymentCreateSerializer,
@@ -15,7 +15,7 @@ from .serializers import (
 )
 
 
-class SaleViewSet(ModelViewSet):
+class SaleViewSet(BaseSGZViewSet):
     serializer_class = SaleSerializer
     queryset = Sale.objects.all()
 
@@ -26,7 +26,7 @@ class SaleViewSet(ModelViewSet):
         return Response(serializer.data, status=status.HTTP_201_CREATED)
 
 
-class SaleDetailViewSet(ModelViewSet):
+class SaleDetailViewSet(BaseSGZViewSet):
     serializer_class = SaleDetailSerializer
     queryset = SaleDetail.objects.all()
 
@@ -59,7 +59,7 @@ class SaleDetailViewSet(ModelViewSet):
         return super().destroy(request, pk, *args, **kwargs)
 
 
-class PaymentViewSet(ModelViewSet):
+class PaymentViewSet(BaseSGZViewSet):
     serializer_class = PaymentSerializer
     queryset = Payment.objects.all()
 
