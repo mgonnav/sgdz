@@ -2,7 +2,12 @@ from django.core.validators import MinLengthValidator, MinValueValidator
 from django.db import models
 
 from sgz.utils.models import SGZModel
-from sgz.utils.validators import alphabetic_validator, numeric_validator, ruc_validator
+from sgz.utils.validators import (
+    alphabetic_validator,
+    hex_code_validator,
+    numeric_validator,
+    ruc_validator,
+)
 
 
 class Brand(SGZModel):
@@ -27,6 +32,7 @@ class Color(SGZModel):
         help_text="Hexadecimal code of the color.",
         blank=True,
         default="",
+        validators=[hex_code_validator],
     )
 
     def __str__(self):
