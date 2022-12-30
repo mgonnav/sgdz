@@ -26,7 +26,7 @@ class Color(SGZModel):
     Physical model code: MF-14
     """
 
-    name = models.CharField(max_length=20, unique=True, help_text="Name of the color.")
+    name = models.CharField(max_length=30, unique=True, help_text="Name of the color.")
     hex_code = models.CharField(
         max_length=7,
         help_text="Hexadecimal code of the color.",
