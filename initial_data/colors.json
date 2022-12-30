@@ -1,2326 +1,3322 @@
 [
   {
     "model": "management.color",
+    "pk": 1,
     "fields": {
-      "id": 1,
-      "name": "Negro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 2,
     "fields": {
-      "id": 2,
-      "name": "Celeste pta ama"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Celeste pta ama",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 3,
     "fields": {
-      "id": 3,
-      "name": "Azul/verde"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul/verde",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 4,
     "fields": {
-      "id": 4,
-      "name": "Verd pacy-celes"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Verd pacy-celes",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 5,
     "fields": {
-      "id": 5,
-      "name": "Celestelog ver"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Celestelog ver",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 6,
     "fields": {
-      "id": 6,
-      "name": "Azul/celeste"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul/celeste",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 7,
     "fields": {
-      "id": 7,
-      "name": "Blanco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 8,
     "fields": {
-      "id": 8,
-      "name": "Blco/negro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/negro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 9,
     "fields": {
-      "id": 9,
-      "name": "Blco/verde"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/verde",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 10,
     "fields": {
-      "id": 10,
-      "name": "Blco/rosa"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/rosa",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 11,
     "fields": {
-      "id": 11,
-      "name": "Blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 12,
     "fields": {
-      "id": 12,
-      "name": "Blco/rosado"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/rosado",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 13,
     "fields": {
-      "id": 13,
-      "name": "Negro/plta blca"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/plta blca",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 14,
     "fields": {
-      "id": 14,
-      "name": "Rosado"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rosado",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 15,
     "fields": {
-      "id": 15,
-      "name": "Azul lin blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul lin blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 16,
     "fields": {
-      "id": 16,
-      "name": "Plomo osc"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo osc",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 17,
     "fields": {
-      "id": 17,
-      "name": "Negro/ brillo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/ brillo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 18,
     "fields": {
-      "id": 18,
-      "name": "Plomo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 19,
     "fields": {
-      "id": 19,
-      "name": "Negr/rosa"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negr/rosa",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 20,
     "fields": {
-      "id": 20,
-      "name": "Uva/plom/ros"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Uva/plom/ros",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 21,
     "fields": {
-      "id": 21,
-      "name": "Negro/log blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/log blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 22,
     "fields": {
-      "id": 22,
-      "name": "Azul los blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul los blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 23,
     "fields": {
-      "id": 23,
-      "name": "Azul acero"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul acero",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 24,
     "fields": {
-      "id": 24,
-      "name": "Azul log blanco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul log blanco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 25,
     "fields": {
-      "id": 25,
-      "name": "Azul"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 26,
     "fields": {
-      "id": 26,
-      "name": "Negro fucc"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro fucc",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 27,
     "fields": {
-      "id": 27,
-      "name": "Blanca/neg"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanca/neg",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 28,
     "fields": {
-      "id": 28,
-      "name": "Blco log negro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco log negro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 29,
     "fields": {
-      "id": 29,
-      "name": "Negro/blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 30,
     "fields": {
-      "id": 30,
-      "name": "Negro/blanco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/blanco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 31,
     "fields": {
-      "id": 31,
-      "name": "Negro/pega"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/pega",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 32,
     "fields": {
-      "id": 32,
-      "name": "Negro/ escarch"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/ escarch",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 33,
     "fields": {
-      "id": 33,
-      "name": "Blco/fuccia"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/fuccia",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 34,
     "fields": {
-      "id": 34,
-      "name": "Blco / rosado"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco / rosado",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 35,
     "fields": {
-      "id": 35,
-      "name": "Blanco verde"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanco verde",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 36,
     "fields": {
-      "id": 36,
-      "name": "Negro/color"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/color",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 37,
     "fields": {
-      "id": 37,
-      "name": "Negro/fdo/rosa"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/fdo/rosa",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 38,
     "fields": {
-      "id": 38,
-      "name": "Granate"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Granate",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 39,
     "fields": {
-      "id": 39,
-      "name": "Negro/narj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/narj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 40,
     "fields": {
-      "id": 40,
-      "name": "Azul marino"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul marino",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 41,
     "fields": {
-      "id": 41,
-      "name": "Rojo negro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rojo negro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 42,
     "fields": {
-      "id": 42,
-      "name": "Blco/roj/negr"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/roj/negr",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 43,
     "fields": {
-      "id": 43,
-      "name": "Rojo/pnt bco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rojo/pnt bco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 44,
     "fields": {
-      "id": 44,
-      "name": "Turqueza"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Turqueza",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 45,
     "fields": {
-      "id": 45,
-      "name": "Morado"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Morado",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 46,
     "fields": {
-      "id": 46,
-      "name": "Piel"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Piel",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 47,
     "fields": {
-      "id": 47,
-      "name": "Mord/salmo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Mord/salmo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 48,
     "fields": {
-      "id": 48,
-      "name": "Azul/verd fluor"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul/verd fluor",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 49,
     "fields": {
-      "id": 49,
-      "name": "Azul/plta rojo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul/plta rojo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 50,
     "fields": {
-      "id": 50,
-      "name": "Fucsia"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Fucsia",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 51,
     "fields": {
-      "id": 51,
-      "name": "Plomo/log ros"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo/log ros",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 52,
     "fields": {
-      "id": 52,
-      "name": "Plomo/verde"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo/verde",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 53,
     "fields": {
-      "id": 53,
-      "name": "Rosa/blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rosa/blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 54,
     "fields": {
-      "id": 54,
-      "name": "Plomo verd fosfl"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo verd fosfl",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 55,
     "fields": {
-      "id": 55,
-      "name": "Negro/alum"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/alum",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 56,
     "fields": {
-      "id": 56,
-      "name": "Celeste agua"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Celeste agua",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 57,
     "fields": {
-      "id": 57,
-      "name": "Negro plt caramelo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro plt caramelo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 58,
     "fields": {
-      "id": 58,
-      "name": "Negro/plt car"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/plt car",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 59,
     "fields": {
-      "id": 59,
-      "name": "Blco/plom/salm"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/plom/salm",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 60,
     "fields": {
-      "id": 60,
-      "name": "Rosad/blc plo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rosad/blc plo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 61,
     "fields": {
-      "id": 61,
-      "name": "Bco/negr pntos"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Bco/negr pntos",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 62,
     "fields": {
-      "id": 62,
-      "name": "Plom/cele"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plom/cele",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 63,
     "fields": {
-      "id": 63,
-      "name": "Azul/marino"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul/marino",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 64,
     "fields": {
-      "id": 64,
-      "name": "Blco/dorad"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/dorad",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 65,
     "fields": {
-      "id": 65,
-      "name": "Mor/lil/fuc"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Mor/lil/fuc",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 66,
     "fields": {
-      "id": 66,
-      "name": "Aluminio/coral"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Aluminio/coral",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 67,
     "fields": {
-      "id": 67,
-      "name": "Plomo/negro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo/negro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 68,
     "fields": {
-      "id": 68,
-      "name": "Blanco/marron"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanco/marron",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 69,
     "fields": {
-      "id": 69,
-      "name": "Azul/log blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul/log blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 70,
     "fields": {
-      "id": 70,
-      "name": "Melon/log blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Melon/log blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 71,
     "fields": {
-      "id": 71,
-      "name": "Blanco /verde ros"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanco /verde ros",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 72,
     "fields": {
-      "id": 72,
-      "name": "Gris log blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Gris log blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 73,
     "fields": {
-      "id": 73,
-      "name": "Plom/azl log ros"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plom/azl log ros",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 74,
     "fields": {
-      "id": 74,
-      "name": "Azul log blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul log blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 75,
     "fields": {
-      "id": 75,
-      "name": "Rosada"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rosada",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 76,
     "fields": {
-      "id": 76,
-      "name": "Azul/coral"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul/coral",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 77,
     "fields": {
-      "id": 77,
-      "name": "Palo rosa"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Palo rosa",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 78,
     "fields": {
-      "id": 78,
-      "name": "Negro log ros"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro log ros",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 79,
     "fields": {
-      "id": 79,
-      "name": "Plomo/log neg"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo/log neg",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 80,
     "fields": {
-      "id": 80,
-      "name": "Negro/ana atrz"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/ana atrz",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 81,
     "fields": {
-      "id": 81,
-      "name": "Violeta/ chuso"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Violeta/ chuso",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 82,
     "fields": {
-      "id": 82,
-      "name": "Blanca"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanca",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 83,
     "fields": {
-      "id": 83,
-      "name": "Blco/celeste"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/celeste",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 84,
     "fields": {
-      "id": 84,
-      "name": "Plomo claro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo claro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 85,
     "fields": {
-      "id": 85,
-      "name": "Blco celeste"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco celeste",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 86,
     "fields": {
-      "id": 86,
-      "name": "Negro militar"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro militar",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 87,
     "fields": {
-      "id": 87,
-      "name": "Azul/negro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul/negro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 88,
     "fields": {
-      "id": 88,
-      "name": "Naranja"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Naranja",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 89,
     "fields": {
-      "id": 89,
-      "name": "Negro/ rojo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/ rojo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 90,
     "fields": {
-      "id": 90,
-      "name": "Negro/plomo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/plomo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 91,
     "fields": {
-      "id": 91,
-      "name": "Negro/chispead"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/chispead",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 92,
     "fields": {
-      "id": 92,
-      "name": "Uva"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Uva",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 93,
     "fields": {
-      "id": 93,
-      "name": "Negro/log/blc"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/log/blc",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 94,
     "fields": {
-      "id": 94,
-      "name": "Celeste"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Celeste",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 95,
     "fields": {
-      "id": 95,
-      "name": "Negro log fuccia"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro log fuccia",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 96,
     "fields": {
-      "id": 96,
-      "name": "Negro/plta blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/plta blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 97,
     "fields": {
-      "id": 97,
-      "name": "Verde"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Verde",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 98,
     "fields": {
-      "id": 98,
-      "name": "Negro/log blc"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/log blc",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 99,
     "fields": {
-      "id": 99,
-      "name": "Lila"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Lila",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 100,
     "fields": {
-      "id": 100,
-      "name": "Morad/plom"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Morad/plom",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 101,
     "fields": {
-      "id": 101,
-      "name": "Blco/log plm/ros"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/log plm/ros",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 102,
     "fields": {
-      "id": 102,
-      "name": "Blco rosa"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco rosa",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 103,
     "fields": {
-      "id": 103,
-      "name": "Gris az"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Gris az",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 104,
     "fields": {
-      "id": 104,
-      "name": "Plomo acero"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo acero",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 105,
     "fields": {
-      "id": 105,
-      "name": "Plomo talon amarillo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo talon amarillo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 106,
     "fields": {
-      "id": 106,
-      "name": "Rojo/negro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rojo/negro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 107,
     "fields": {
-      "id": 107,
-      "name": "Blco turqueza"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco turqueza",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 108,
     "fields": {
-      "id": 108,
-      "name": "Negro/naranja/lila"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/naranja/lila",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 109,
     "fields": {
-      "id": 109,
-      "name": "Negro log blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro log blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 110,
     "fields": {
-      "id": 110,
-      "name": "Negro log plt"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro log plt",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 111,
     "fields": {
-      "id": 111,
-      "name": "Blco/mor/log n"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/mor/log n",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 112,
     "fields": {
-      "id": 112,
-      "name": "Blco-ver"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco-ver",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 113,
     "fields": {
-      "id": 113,
-      "name": "Pali rosa"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Pali rosa",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 114,
     "fields": {
-      "id": 114,
-      "name": "Purpura escarchado"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Purpura escarchado",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 115,
     "fields": {
-      "id": 115,
-      "name": "Plomo/escarch"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo/escarch",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 116,
     "fields": {
-      "id": 116,
-      "name": "Rosado blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rosado blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 117,
     "fields": {
-      "id": 117,
-      "name": "Fuccia/rosado"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Fuccia/rosado",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 118,
     "fields": {
-      "id": 118,
-      "name": "Negro/verd"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/verd",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 119,
     "fields": {
-      "id": 119,
-      "name": "Blco-urb"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco-urb",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 120,
     "fields": {
-      "id": 120,
-      "name": "Negro/rojo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/rojo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 121,
     "fields": {
-      "id": 121,
-      "name": "Azul blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 122,
     "fields": {
-      "id": 122,
-      "name": "Plomo/blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo/blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 123,
     "fields": {
-      "id": 123,
-      "name": "Crema"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Crema",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 124,
     "fields": {
-      "id": 124,
-      "name": "Guinda"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Guinda",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 125,
     "fields": {
-      "id": 125,
-      "name": "Negro rojo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro rojo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 126,
     "fields": {
-      "id": 126,
-      "name": "Crema/verde"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Crema/verde",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 127,
     "fields": {
-      "id": 127,
-      "name": "Plom/blco/tur"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plom/blco/tur",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 128,
     "fields": {
-      "id": 128,
-      "name": "Plomo/log plo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo/log plo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 129,
     "fields": {
-      "id": 129,
-      "name": "Negro/log ros"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/log ros",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 130,
     "fields": {
-      "id": 130,
-      "name": "Negro/log n"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/log n",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 131,
     "fields": {
-      "id": 131,
-      "name": "Rojo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rojo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 132,
     "fields": {
-      "id": 132,
-      "name": "Negr/plom/ros"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negr/plom/ros",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 133,
     "fields": {
-      "id": 133,
-      "name": "Blsnco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blsnco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 134,
     "fields": {
-      "id": 134,
-      "name": "Blanco/azul"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanco/azul",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 135,
     "fields": {
-      "id": 135,
-      "name": "Azul/lateado/plomo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul/lateado/plomo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 136,
     "fields": {
-      "id": 136,
-      "name": "Rosada/luces"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rosada/luces",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 137,
     "fields": {
-      "id": 137,
-      "name": "Azul fond rosa"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul fond rosa",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 138,
     "fields": {
-      "id": 138,
-      "name": "Plateada lin/cel"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plateada lin/cel",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 139,
     "fields": {
-      "id": 139,
-      "name": "Negro milit"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro milit",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 140,
     "fields": {
-      "id": 140,
-      "name": "Negro/fnd dor"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/fnd dor",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 141,
     "fields": {
-      "id": 141,
-      "name": "Dorado/escarch"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Dorado/escarch",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 142,
     "fields": {
-      "id": 142,
-      "name": "Azul osc"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul osc",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 143,
     "fields": {
-      "id": 143,
-      "name": "Azul/naranj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul/naranj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 144,
     "fields": {
-      "id": 144,
-      "name": "Negro verde"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro verde",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 145,
     "fields": {
-      "id": 145,
-      "name": "Color"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Color",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 146,
     "fields": {
-      "id": 146,
-      "name": "Plom, plta anarj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plom, plta anarj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 147,
     "fields": {
-      "id": 147,
-      "name": "Negro-rojo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro-rojo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 148,
     "fields": {
-      "id": 148,
-      "name": "Plomo amarillo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo amarillo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 149,
     "fields": {
-      "id": 149,
-      "name": "Plo/cel/plt ros"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plo/cel/plt ros",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 150,
     "fields": {
-      "id": 150,
-      "name": "Az/ver/neg"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Az/ver/neg",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 151,
     "fields": {
-      "id": 151,
-      "name": "Blco log rosado"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco log rosado",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 152,
     "fields": {
-      "id": 152,
-      "name": "Azul verde"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul verde",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 153,
     "fields": {
-      "id": 153,
-      "name": "Azul/log plat"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul/log plat",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 154,
     "fields": {
-      "id": 154,
-      "name": "Blco manchas"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco manchas",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 155,
     "fields": {
-      "id": 155,
-      "name": "Negro p/naran"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro p/naran",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 156,
     "fields": {
-      "id": 156,
-      "name": "Negro/log roj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/log roj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 157,
     "fields": {
-      "id": 157,
-      "name": "Blanco azul"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanco azul",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 158,
     "fields": {
-      "id": 158,
-      "name": "Negro blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 159,
     "fields": {
-      "id": 159,
-      "name": "Verde limon"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Verde limon",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 160,
     "fields": {
-      "id": 160,
-      "name": "Blco logo  oro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco logo  oro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 161,
     "fields": {
-      "id": 161,
-      "name": "Negro conqu"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro conqu",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 162,
     "fields": {
-      "id": 162,
-      "name": "Plomnrja"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomnrja",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 163,
     "fields": {
-      "id": 163,
-      "name": "Azul plat"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul plat",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 164,
     "fields": {
-      "id": 164,
-      "name": "Plom blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plom blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 165,
     "fields": {
-      "id": 165,
-      "name": "Verd/anar"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Verd/anar",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 166,
     "fields": {
-      "id": 166,
-      "name": "Blco log/verdel"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco log/verdel",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 167,
     "fields": {
-      "id": 167,
-      "name": "Fuccia"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Fuccia",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 168,
     "fields": {
-      "id": 168,
-      "name": "Rojo naranja"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rojo naranja",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 169,
     "fields": {
-      "id": 169,
-      "name": "Rojo plomo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rojo plomo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 170,
     "fields": {
-      "id": 170,
-      "name": "Rojo/azul"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rojo/azul",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 171,
     "fields": {
-      "id": 171,
-      "name": "Colores"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Colores",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 172,
     "fields": {
-      "id": 172,
-      "name": "Blco/log dor"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/log dor",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 173,
     "fields": {
-      "id": 173,
-      "name": "Negro/log negro/ana"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/log negro/ana",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 174,
     "fields": {
-      "id": 174,
-      "name": "Blco/ray azul"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/ray azul",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 175,
     "fields": {
-      "id": 175,
-      "name": "Beis vino"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Beis vino",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 176,
     "fields": {
-      "id": 176,
-      "name": "Azul elec.plom"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul elec.plom",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 177,
     "fields": {
-      "id": 177,
-      "name": "Negr/nrja/azul"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negr/nrja/azul",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 178,
     "fields": {
-      "id": 178,
-      "name": "Negro/verde"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/verde",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 179,
     "fields": {
-      "id": 179,
-      "name": "Gris"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Gris",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 180,
     "fields": {
-      "id": 180,
-      "name": "Beis/blco/roj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Beis/blco/roj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 181,
     "fields": {
-      "id": 181,
-      "name": "Blco/ diseño"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/ diseño",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 182,
     "fields": {
-      "id": 182,
-      "name": "Plomo/rojo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo/rojo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 183,
     "fields": {
-      "id": 183,
-      "name": "Plomo plnta ros"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo plnta ros",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 184,
     "fields": {
-      "id": 184,
-      "name": "Negro plt roj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro plt roj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 185,
     "fields": {
-      "id": 185,
-      "name": "Blco /palo rosa"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco /palo rosa",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 186,
     "fields": {
-      "id": 186,
-      "name": "Artel"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Artel",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 187,
     "fields": {
-      "id": 187,
-      "name": "Verde/negro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Verde/negro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 188,
     "fields": {
-      "id": 188,
-      "name": "Blco plt nar"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco plt nar",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 189,
     "fields": {
-      "id": 189,
-      "name": "Negro/blco plta crep"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/blco plta crep",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 190,
     "fields": {
-      "id": 190,
-      "name": "Blco/plomo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/plomo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 191,
     "fields": {
-      "id": 191,
-      "name": "Azul/rojo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul/rojo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 192,
     "fields": {
-      "id": 192,
-      "name": "Azul/fuccia"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul/fuccia",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 193,
     "fields": {
-      "id": 193,
-      "name": "Beis/asp nara"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Beis/asp nara",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 194,
     "fields": {
-      "id": 194,
-      "name": "Blanco/asp negro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanco/asp negro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 195,
     "fields": {
-      "id": 195,
-      "name": "Negro/blco asp plom"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/blco asp plom",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 196,
     "fields": {
-      "id": 196,
-      "name": "Negro/lila asp plom"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/lila asp plom",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 197,
     "fields": {
-      "id": 197,
-      "name": "Plom/verdr"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plom/verdr",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 198,
     "fields": {
-      "id": 198,
-      "name": "Negro gris"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro gris",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 199,
     "fields": {
-      "id": 199,
-      "name": "Blco/azul"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/azul",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 200,
     "fields": {
-      "id": 200,
-      "name": "Plom na"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plom na",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 201,
     "fields": {
-      "id": 201,
-      "name": "Verde militar"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Verde militar",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 202,
     "fields": {
-      "id": 202,
-      "name": "Negro/azul"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/azul",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 203,
     "fields": {
-      "id": 203,
-      "name": "Celeste blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Celeste blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 204,
     "fields": {
-      "id": 204,
-      "name": "Rojo plom/neg"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rojo plom/neg",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 205,
     "fields": {
-      "id": 205,
-      "name": "Plom naranj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plom naranj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 206,
     "fields": {
-      "id": 206,
-      "name": "Plom"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plom",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 207,
     "fields": {
-      "id": 207,
-      "name": "Blco/ros"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/ros",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 208,
     "fields": {
-      "id": 208,
-      "name": "Blco/plt verde"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/plt verde",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 209,
     "fields": {
-      "id": 209,
-      "name": "Azul marin asp cele"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul marin asp cele",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 210,
     "fields": {
-      "id": 210,
-      "name": "Blco/hasp plom"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/hasp plom",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 211,
     "fields": {
-      "id": 211,
-      "name": "Blanc rosad"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanc rosad",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 212,
     "fields": {
-      "id": 212,
-      "name": "Blco lin negro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco lin negro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 213,
     "fields": {
-      "id": 213,
-      "name": "Blco c/dis"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco c/dis",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 214,
     "fields": {
-      "id": 214,
-      "name": "Azul mar/mor"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul mar/mor",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 215,
     "fields": {
-      "id": 215,
-      "name": "Azul blanco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul blanco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 216,
     "fields": {
-      "id": 216,
-      "name": "Azul verd"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul verd",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 217,
     "fields": {
-      "id": 217,
-      "name": "Azul verd fucc"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul verd fucc",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 218,
     "fields": {
-      "id": 218,
-      "name": "Let"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Let",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 219,
     "fields": {
-      "id": 219,
-      "name": "Bllco colres"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Bllco colres",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 220,
     "fields": {
-      "id": 220,
-      "name": "Azul/blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul/blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 221,
     "fields": {
-      "id": 221,
-      "name": "Blanco has negro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanco has negro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 222,
     "fields": {
-      "id": 222,
-      "name": "Coral rosa"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Coral rosa",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 223,
     "fields": {
-      "id": 223,
-      "name": "Azul haspeado"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul haspeado",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 224,
     "fields": {
-      "id": 224,
-      "name": "Negro haspe ros"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro haspe ros",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 225,
     "fields": {
-      "id": 225,
-      "name": "Negro haspeados"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro haspeados",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 226,
     "fields": {
-      "id": 226,
-      "name": "Rosadp has"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rosadp has",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 227,
     "fields": {
-      "id": 227,
-      "name": "Plomo ros"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo ros",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 228,
     "fields": {
-      "id": 228,
-      "name": "Lila dor"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Lila dor",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 229,
     "fields": {
-      "id": 229,
-      "name": "Blco/ naranj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco/ naranj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 230,
     "fields": {
-      "id": 230,
-      "name": "Negro/ blco fucc"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/ blco fucc",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 231,
     "fields": {
-      "id": 231,
-      "name": "Blanco nrj/ver"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanco nrj/ver",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 232,
     "fields": {
-      "id": 232,
-      "name": "Blanco/plt crep"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanco/plt crep",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 233,
     "fields": {
-      "id": 233,
-      "name": "Tri color"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Tri color",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 234,
     "fields": {
-      "id": 234,
-      "name": "Azul/neg roj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul/neg roj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 235,
     "fields": {
-      "id": 235,
-      "name": "Blco rojo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco rojo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 236,
     "fields": {
-      "id": 236,
-      "name": "Blanco/verd"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanco/verd",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 237,
     "fields": {
-      "id": 237,
-      "name": "Negro/palo ro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/palo ro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 238,
     "fields": {
-      "id": 238,
-      "name": "Blco azu{"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco azu{",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 239,
     "fields": {
-      "id": 239,
-      "name": "Negro fuccia"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro fuccia",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 240,
     "fields": {
-      "id": 240,
-      "name": "Negro/dorado"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/dorado",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 241,
     "fields": {
-      "id": 241,
-      "name": "Blco roj az"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco roj az",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 242,
     "fields": {
-      "id": 242,
-      "name": "Negro/roj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/roj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 243,
     "fields": {
-      "id": 243,
-      "name": "Acero"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Acero",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 244,
     "fields": {
-      "id": 244,
-      "name": "Negro7dord"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro7dord",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 245,
     "fields": {
-      "id": 245,
-      "name": "Negro/rosa/blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/rosa/blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 246,
     "fields": {
-      "id": 246,
-      "name": "Gris plomo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Gris plomo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 247,
     "fields": {
-      "id": 247,
-      "name": "Negro amarillo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro amarillo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 248,
     "fields": {
-      "id": 248,
-      "name": "Melon"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Melon",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 249,
     "fields": {
-      "id": 249,
-      "name": "Tricolor"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Tricolor",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 250,
     "fields": {
-      "id": 250,
-      "name": "Negro cont"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro cont",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 251,
     "fields": {
-      "id": 251,
-      "name": "Beis"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Beis",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 252,
     "fields": {
-      "id": 252,
-      "name": "Negro caña"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro caña",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 253,
     "fields": {
-      "id": 253,
-      "name": "Negro plt crem"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro plt crem",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 254,
     "fields": {
-      "id": 254,
-      "name": "Verde osc recicl"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Verde osc recicl",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 255,
     "fields": {
-      "id": 255,
-      "name": "Blco plta azul"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco plta azul",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 256,
     "fields": {
-      "id": 256,
-      "name": "Blanco roj neg"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanco roj neg",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 257,
     "fields": {
-      "id": 257,
-      "name": "Marron"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Marron",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 258,
     "fields": {
-      "id": 258,
-      "name": "Blco ros az plt"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco ros az plt",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 259,
     "fields": {
-      "id": 259,
-      "name": "Cambia color"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Cambia color",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 260,
     "fields": {
-      "id": 260,
-      "name": "Coral"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Coral",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 261,
     "fields": {
-      "id": 261,
-      "name": "Camara de aire"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Camara de aire",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 262,
     "fields": {
-      "id": 262,
-      "name": "Blco plta amar"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco plta amar",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 263,
     "fields": {
-      "id": 263,
-      "name": "Rosa jaspeado negro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rosa jaspeado negro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 264,
     "fields": {
-      "id": 264,
-      "name": "Plomo jasp roj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo jasp roj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 265,
     "fields": {
-      "id": 265,
-      "name": "Blco plom"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco plom",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 266,
     "fields": {
-      "id": 266,
-      "name": "Blco verde"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco verde",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 267,
     "fields": {
-      "id": 267,
-      "name": "Negro naranj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro naranj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 268,
     "fields": {
-      "id": 268,
-      "name": "Negro plomo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro plomo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 269,
     "fields": {
-      "id": 269,
-      "name": "Mickey blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Mickey blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 270,
     "fields": {
-      "id": 270,
-      "name": "Blco l negro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco l negro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 271,
     "fields": {
-      "id": 271,
-      "name": "Negro l blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro l blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 272,
     "fields": {
-      "id": 272,
-      "name": "Plom turq"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plom turq",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 273,
     "fields": {
-      "id": 273,
-      "name": "Neg/blc/turq"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Neg/blc/turq",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 274,
     "fields": {
-      "id": 274,
-      "name": "Negro/naranj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro/naranj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 275,
     "fields": {
-      "id": 275,
-      "name": "Negro roj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro roj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 276,
     "fields": {
-      "id": 276,
-      "name": "Ros/blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Ros/blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 277,
     "fields": {
-      "id": 277,
-      "name": "Negro dorado"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro dorado",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 278,
     "fields": {
-      "id": 278,
-      "name": "Crema blanco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Crema blanco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 279,
     "fields": {
-      "id": 279,
-      "name": "Beyond blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Beyond blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 280,
     "fields": {
-      "id": 280,
-      "name": "Amarillo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Amarillo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 281,
     "fields": {
-      "id": 281,
-      "name": "N egro/blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "N egro/blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 282,
     "fields": {
-      "id": 282,
-      "name": "Blco negr"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco negr",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 283,
     "fields": {
-      "id": 283,
-      "name": "Negro dor"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro dor",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 284,
     "fields": {
-      "id": 284,
-      "name": "Negro blc ros"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro blc ros",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 285,
     "fields": {
-      "id": 285,
-      "name": "Palo rosa trans"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Palo rosa trans",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 286,
     "fields": {
-      "id": 286,
-      "name": "Rosado reciclada"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rosado reciclada",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 287,
     "fields": {
-      "id": 287,
-      "name": "Plom hasp"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plom hasp",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 288,
     "fields": {
-      "id": 288,
-      "name": "Verde pacay amar"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Verde pacay amar",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 289,
     "fields": {
-      "id": 289,
-      "name": "Plt amarillo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plt amarillo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 290,
     "fields": {
-      "id": 290,
-      "name": "Blanco narn ver"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanco narn ver",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 291,
     "fields": {
-      "id": 291,
-      "name": "Blco negro gamuz"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco negro gamuz",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 292,
     "fields": {
-      "id": 292,
-      "name": "Crema gamuz"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Crema gamuz",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 293,
     "fields": {
-      "id": 293,
-      "name": "Blaco azul roj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blaco azul roj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 294,
     "fields": {
-      "id": 294,
-      "name": "Negro naranj az"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro naranj az",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 295,
     "fields": {
-      "id": 295,
-      "name": "Cocomut milk"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Cocomut milk",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 296,
     "fields": {
-      "id": 296,
-      "name": "Gris caña"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Gris caña",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 297,
     "fields": {
-      "id": 297,
-      "name": "Rosado crema"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rosado crema",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 298,
     "fields": {
-      "id": 298,
-      "name": "Palo rosa melon"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Palo rosa melon",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 299,
     "fields": {
-      "id": 299,
-      "name": "Coral verde"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Coral verde",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 300,
     "fields": {
-      "id": 300,
-      "name": "Negro plta rosa"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro plta rosa",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 301,
     "fields": {
-      "id": 301,
-      "name": "Verde camello"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Verde camello",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 302,
     "fields": {
-      "id": 302,
-      "name": "Blco li neg"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco li neg",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 303,
     "fields": {
-      "id": 303,
-      "name": "Blanco caña plat"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blanco caña plat",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 304,
     "fields": {
-      "id": 304,
-      "name": "Negro roj bl"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro roj bl",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 305,
     "fields": {
-      "id": 305,
-      "name": "Blco dor"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco dor",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 306,
     "fields": {
-      "id": 306,
-      "name": "Plomo basket"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo basket",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 307,
     "fields": {
-      "id": 307,
-      "name": "Azul fucc"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azul fucc",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 308,
     "fields": {
-      "id": 308,
-      "name": "Negro colores"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro colores",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 309,
     "fields": {
-      "id": 309,
-      "name": "Plomo rojo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo rojo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 310,
     "fields": {
-      "id": 310,
-      "name": "Blc ver lil"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blc ver lil",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 311,
     "fields": {
-      "id": 311,
-      "name": "Blco negro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco negro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 312,
     "fields": {
-      "id": 312,
-      "name": "Blco azl"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco azl",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 313,
     "fields": {
-      "id": 313,
-      "name": "React levation"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "React levation",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 314,
     "fields": {
-      "id": 314,
-      "name": "Negro plt blco"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro plt blco",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 315,
     "fields": {
-      "id": 315,
-      "name": "Colores payayo"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Colores payayo",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 316,
     "fields": {
-      "id": 316,
-      "name": "Negro azul"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro azul",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 317,
     "fields": {
-      "id": 317,
-      "name": "Celeste negro"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Celeste negro",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 318,
     "fields": {
-      "id": 318,
-      "name": "Plomo/rosa"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo/rosa",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 319,
     "fields": {
-      "id": 319,
-      "name": "Negro naranja"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro naranja",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 320,
     "fields": {
-      "id": 320,
-      "name": "Azulino"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Azulino",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 321,
     "fields": {
-      "id": 321,
-      "name": "Blco lila"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco lila",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 322,
     "fields": {
-      "id": 322,
-      "name": "Negro plom roj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro plom roj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 323,
     "fields": {
-      "id": 323,
-      "name": "Negro cebra"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro cebra",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 324,
     "fields": {
-      "id": 324,
-      "name": "Celeste azul"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Celeste azul",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 325,
     "fields": {
-      "id": 325,
-      "name": "Plomo az"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo az",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 326,
     "fields": {
-      "id": 326,
-      "name": "Crema palo ros"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Crema palo ros",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 327,
     "fields": {
-      "id": 327,
-      "name": "Xxx"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Xxx",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 328,
     "fields": {
-      "id": 328,
-      "name": "Negro amarill"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Negro amarill",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 329,
     "fields": {
-      "id": 329,
-      "name": "Zulino"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Zulino",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 330,
     "fields": {
-      "id": 330,
-      "name": "Plomo narj"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Plomo narj",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 331,
     "fields": {
-      "id": 331,
-      "name": "Blco cols"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Blco cols",
+      "hex_code": ""
     }
   },
   {
     "model": "management.color",
+    "pk": 332,
     "fields": {
-      "id": 332,
-      "name": "Colres plta celeste"
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Colres plta celeste",
+      "hex_code": ""
     }
   }
 ]

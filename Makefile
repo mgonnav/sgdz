@@ -20,7 +20,7 @@ test:
 initdata:
 	docker compose -f local.yml run --rm django python manage.py loaddata initial_data/brands.json
 	docker compose -f local.yml run --rm django python manage.py loaddata initial_data/colors.json
-	docker compose -f local.yml run --rm django python manage.py loaddata initial_data/models.json
+	docker compose -f local.yml run --rm django python manage.py loaddata initial_data/shoemodels.json
 
 enterdb:
 	docker exec -it sgz_local_postgres psql -U nxzKlUiKpsgjcLAMOxtutZVVjYDuUKEi -W sgz

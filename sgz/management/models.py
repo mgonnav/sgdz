@@ -1,10 +1,11 @@
 from django.core.validators import MinLengthValidator, MinValueValidator
 from django.db import models
 
+from sgz.utils.models import SGZModel
 from sgz.utils.validators import alphabetic_validator, numeric_validator, ruc_validator
 
 
-class Brand(models.Model):
+class Brand(SGZModel):
     """
     Physical model code: MF-15
     """
@@ -15,7 +16,7 @@ class Brand(models.Model):
         return self.name
 
 
-class Color(models.Model):
+class Color(SGZModel):
     """
     Physical model code: MF-14
     """
@@ -32,7 +33,7 @@ class Color(models.Model):
         return f"{self.name} ({self.hex_code})"
 
 
-class PaymentType(models.Model):
+class PaymentType(SGZModel):
     """
     Physical model code: MF-05
     """
@@ -45,7 +46,7 @@ class PaymentType(models.Model):
         return self.name
 
 
-class ShoeModel(models.Model):
+class ShoeModel(SGZModel):
     """
     Physical model code: MF-10
     """
@@ -65,7 +66,7 @@ class ShoeModel(models.Model):
         return f"{self.code} | {self.name}"
 
 
-class Product(models.Model):
+class Product(SGZModel):
     """
     Physical model code: MF-07
     """
@@ -87,7 +88,7 @@ class Product(models.Model):
     )
 
 
-class Provider(models.Model):
+class Provider(SGZModel):
     """
     Physical model code: MF-12
     """
@@ -116,7 +117,7 @@ class Provider(models.Model):
         return f"{self.company_name} ({self.contact_name})"
 
 
-class Storeroom(models.Model):
+class Storeroom(SGZModel):
     """
     Physical model code: MF-09
     """
@@ -135,7 +136,7 @@ class Storeroom(models.Model):
         return self.name
 
 
-class Allocation(models.Model):
+class Allocation(SGZModel):
     """
     Physical model code: MF-08
     """
@@ -155,7 +156,7 @@ class Allocation(models.Model):
     )
 
 
-class PointOfSale(models.Model):
+class PointOfSale(SGZModel):
     """
     Physical model code: MF-02
     """

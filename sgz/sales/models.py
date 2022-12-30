@@ -3,9 +3,10 @@ from django.core.validators import MinValueValidator
 from django.db import models
 
 from sgz.management.models import Allocation, PaymentType, PointOfSale, Product
+from sgz.utils.models import SGZModel
 
 
-class Sale(models.Model):
+class Sale(SGZModel):
     """
     Physical model code: MF-03
     """
@@ -35,7 +36,7 @@ class Sale(models.Model):
     )
 
 
-class SaleDetail(models.Model):
+class SaleDetail(SGZModel):
     """
     Physical model code: MF-06
     """
@@ -56,7 +57,7 @@ class SaleDetail(models.Model):
     number_of_units = models.PositiveSmallIntegerField(help_text="Number of units.")
 
 
-class Payment(models.Model):
+class Payment(SGZModel):
     """
     Physical model code: MF-04
     """
