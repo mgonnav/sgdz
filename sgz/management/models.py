@@ -147,6 +147,11 @@ class Allocation(SGZModel):
     Physical model code: MF-08
     """
 
+    class FootChoices(models.IntegerChoices):
+        LEFT_FOOT = 0, "Pie izquierdo"
+        RIGHT_FOOT = 1, "Pie derecho"
+        BOTH_FEET = 2, "Ambos pies"
+
     storeroom = models.ForeignKey(
         Storeroom,
         on_delete=models.CASCADE,
@@ -160,6 +165,14 @@ class Allocation(SGZModel):
     stock = models.PositiveIntegerField(
         help_text="Stock of the product in the storeroom."
     )
+    foot = models.PositiveSmallIntegerField(
+        choices=FootChoices.choices,
+        default=FootChoices.BOTH_FEET,
+        help_text="Foot of the product.",
+    )
+    exhibition = models.BooleanField(
+        default=False, help_text="Whether the product is on exhibition or not."
+    )
 
 
 class PointOfSale(SGZModel):
@@ -169,6 +182,12 @@ class PointOfSale(SGZModel):
 
     name = models.CharField(
         max_length=50, unique=True, help_text="Name of the point of sale."
+    )
+    storeroom = models.OneToOneField(
+        Storeroom,
+        on_delete=models.CASCADE,
+        help_text="Storeroom associated with the point of sale.",
+        related_name="point_of_sale",
     )
 
     def __str__(self):
