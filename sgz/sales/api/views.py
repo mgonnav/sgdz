@@ -19,11 +19,10 @@ class SaleViewSet(BaseSGZViewSet):
     serializer_class = SaleSerializer
     queryset = Sale.objects.all()
 
-    def create(self, request, *args, **kwargs):
-        serializer = SaleCreateSerializer(data=request.data)
-        serializer.is_valid(raise_exception=True)
-        serializer.save()
-        return Response(serializer.data, status=status.HTTP_201_CREATED)
+    def get_serializer_class(self):
+        if self.action in ["create"]:
+            return SaleCreateSerializer
+        return self.serializer_class
 
 
 class SaleDetailViewSet(BaseSGZViewSet):

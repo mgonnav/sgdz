@@ -2,7 +2,7 @@ from django.conf import settings
 from django.core.validators import MinValueValidator
 from django.db import models
 
-from sgz.management.models import Allocation, PaymentType, PointOfSale, Product
+from sgz.management.models import Allocation, PaymentType, PointOfSale
 from sgz.utils.models import SGZModel
 
 
@@ -41,9 +41,11 @@ class SaleDetail(SGZModel):
     Physical model code: MF-06
     """
 
-    sale = models.ForeignKey(Sale, on_delete=models.CASCADE, help_text="Related sale.")
-    product = models.ForeignKey(
-        Product, on_delete=models.CASCADE, help_text="Related product."
+    sale = models.ForeignKey(
+        Sale,
+        related_name="details",
+        on_delete=models.CASCADE,
+        help_text="Related sale.",
     )
     allocation = models.ForeignKey(
         Allocation, on_delete=models.CASCADE, help_text="Related allocation."
