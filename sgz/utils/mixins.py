@@ -26,7 +26,8 @@ class PartialRetrieveMixin:
     search is being performed.
     """
 
-    def retrieve(self, request, *args, lookup_field="", **kwargs):
-        results = self.queryset.filter(**{f"{lookup_field}__icontains": lookup_field})
+    def retrieve(self, request, *args, **kwargs):
+        keyword = kwargs.get(self.lookup_field, "")
+        results = self.queryset.filter(**{f"{self.lookup_field}__icontains": keyword})
         serializer = self.get_serializer(results, many=True)
         return Response(serializer.data[:10])
