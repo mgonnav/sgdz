@@ -1,10 +1,10 @@
 from rest_framework.viewsets import ModelViewSet
 
 from sgz.users.permissions import IsOwnerUser
-from sgz.utils.mixins import PaginatedCustomOrderingMixin
+from sgz.utils.mixins import PaginatedCustomOrderingMixin, PartialRetrieveMixin
 
 
-class BaseSGZViewSet(PaginatedCustomOrderingMixin, ModelViewSet):
+class BaseSGZViewSet(PartialRetrieveMixin, PaginatedCustomOrderingMixin, ModelViewSet):
     pass
 
 

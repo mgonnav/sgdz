@@ -17,3 +17,17 @@ class PaginatedCustomOrderingMixin:
 
         serializer = self.get_serializer(page, many=True)
         return Response(serializer.data)
+
+
+class PartialRetrieveMixin:
+    """
+    Apply this mixin to any view or viewset to get partial results when searching
+    using the `lookup_field` attribute which should be part of the model where the
+    search is being performed.
+    """
+
+    def retrieve(self, request, *args, **kwargs):
+        keyword = kwargs.get(self.lookup_field, "")
+        results = self.queryset.filter(**{f"{self.lookup_field}__icontains": keyword})
+        serializer = self.get_serializer(results, many=True)
+        return Response(serializer.data[:10])

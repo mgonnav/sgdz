@@ -30,6 +30,16 @@ class PointOfSaleSerializer(serializers.ModelSerializer):
     class Meta:
         model = PointOfSale
         fields = "__all__"
+        read_only_fields = ("storeroom",)
+
+    def create(self, validated_data, *args, **kwargs):
+        storeroom = Storeroom.objects.create(
+            name=f"Almacén de {validated_data.get('name')}."
+        )
+        point_of_sale = PointOfSale.objects.create(
+            **validated_data, storeroom=storeroom
+        )
+        return point_of_sale
 
 
 class BrandSerializer(serializers.ModelSerializer):
@@ -103,7 +113,8 @@ class StoreroomSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Storeroom
-        fields = ("id", "name", "storeroom_allocations")
+        fields = ("id", "name", "storeroom_allocations", "point_of_sale")
+        read_only_fields = ("point_of_sale",)
 
     def get_storeroom_allocations(self, storeroom):
         return {

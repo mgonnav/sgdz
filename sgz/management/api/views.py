@@ -1,5 +1,3 @@
-from rest_framework.response import Response
-
 from sgz.management.models import (
     Allocation,
     Brand,
@@ -92,11 +90,6 @@ class BrandViewSet(OwnerSGZViewSet):
     queryset = Brand.objects.all()
     lookup_field = "name"
 
-    def retrieve(self, request, *args, name="", **kwargs):
-        brands = self.queryset.filter(name__icontains=name)
-        serializer = self.serializer_class(brands, many=True)
-        return Response(serializer.data[:10])
-
 
 class ColorViewSet(OwnerSGZViewSet):
     """
@@ -107,11 +100,6 @@ class ColorViewSet(OwnerSGZViewSet):
     serializer_class = ColorSerializer
     queryset = Color.objects.all()
     lookup_field = "name"
-
-    def retrieve(self, request, *args, name="", **kwargs):
-        colors = self.queryset.filter(name__icontains=name)
-        serializer = self.get_serializer(colors, many=True)
-        return Response(serializer.data[:10])
 
 
 class ShoeModelViewSet(OwnerSGZViewSet):
@@ -128,11 +116,6 @@ class ShoeModelViewSet(OwnerSGZViewSet):
         if self.action in ["create", "update"]:
             return ShoeModelCreateUpdateSerializer
         return self.serializer_class
-
-    def retrieve(self, request, *args, code="", **kwargs):
-        shoe_models = self.queryset.filter(code__icontains=code)
-        serializer = self.get_serializer(shoe_models, many=True)
-        return Response(serializer.data[:10])
 
 
 class StoreroomViewSet(OwnerSGZViewSet):
